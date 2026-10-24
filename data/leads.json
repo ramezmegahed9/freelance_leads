@@ -2,6 +2,184 @@
   "updated": "2026-10-24",
   "leads": [
     {
+      "id": "mq-papyrus-store-1024",
+      "added": "2026-10-24",
+      "posted": "2026-10-24",
+      "company": "Papyrus art store (Khaled E.)",
+      "country": "",
+      "city": "",
+      "platform": "Mostaql",
+      "type": "Freelance project",
+      "budget": "$100–250 · 30 days",
+      "stack": [
+        "WordPress",
+        "WooCommerce",
+        "WPML / Multilingual",
+        "PayPal & Visa",
+        "DHL/FedEx shipping"
+      ],
+      "need": "International online store selling handmade Pharaonic papyrus paintings: pro image zoom for fine detail, English (main) + Arabic with room for more languages, fully responsive, Visa/MasterCard + PayPal, automatic international shipping rates (DHL/FedEx), and an easy admin panel.",
+      "summary": "New international WooCommerce store for handmade papyrus art: zoom, EN/AR, PayPal, DHL shipping.",
+      "source": {
+        "platform": "Mostaql",
+        "url": "https://mostaql.com/project/1287824",
+        "date": "2026-10-24",
+        "title": "إنشاء متجر إلكتروني دولي لبيع لوحات البردي",
+        "poster": "Khaled E.",
+        "excerpt": "Handmade papyrus store for global buyers; image zoom is a must, multilingual, international payments and shipping calculator."
+      },
+      "contacts": {
+        "name": "Khaled E.",
+        "role": "",
+        "emails": [],
+        "phones": [],
+        "whatsapp": "",
+        "website": "",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "other": "https://mostaql.com/project/1287824"
+      },
+      "email_subject": "Your international papyrus store on WooCommerce",
+      "email_subject_ar": "متجر لوحات البردي الدولي على ووكومرس",
+      "message_en": "Hi Khaled,\n\nYour papyrus store is a great fit for us. We'd build it on WooCommerce with a high-resolution zoom so buyers can see every fibre of the papyrus, English/Arabic (ready for more languages), PayPal + card payments, and live DHL/FedEx rates at checkout.\n\nWe're a WordPress team in Egypt with a lot of WooCommerce stores behind us. I can share 2–3 live store examples and a clear plan within your 30 days.\n\nRamez",
+      "message_ar": "السلام عليكم أستاذ خالد،\n\nقريت متطلبات متجر لوحات البردي كويس، وده نوع شغل بنحبه جداً. هننفذه على WooCommerce مع:\n- تكبير احترافي للصور (Zoom) على الكمبيوتر والموبايل يوضح تفاصيل الرسم وألياف البردي.\n- الإنجليزي كلغة أساسية + العربي، وجاهز لإضافة لغات تانية.\n- دفع بالفيزا/ماستركارد وPayPal.\n- حساب الشحن الدولي أوتوماتيك مع DHL أو FedEx حسب الدولة والوزن.\n- لوحة تحكم سهلة لإضافة اللوحات والأسعار والطلبات.\n\nإحنا فريق ووردبريس في مصر ونفذنا متاجر WooCommerce كتير، وهبعتلك 2–3 متاجر لايف كأمثلة وخطة تنفيذ واضحة في حدود الـ 30 يوم.\n\nرامز"
+    },
+    {
+      "id": "mq-uae-family-law-1024",
+      "added": "2026-10-24",
+      "posted": "2026-10-24",
+      "company": "UAE Family Law platform (Elshawi I.)",
+      "country": "UAE",
+      "city": "",
+      "platform": "Mostaql",
+      "type": "Freelance project",
+      "budget": "$50–100 · 10 days (scope is much bigger)",
+      "stack": [
+        "WordPress",
+        "Bookings",
+        "Payments",
+        "Client portal",
+        "CRM",
+        "AR/EN"
+      ],
+      "need": "Bilingual WordPress platform for a UAE family-law practice: services (divorce, custody, inheritance…), knowledge center, smart tools (case assessment, ask a lawyer), consultation booking with calendar & reminders, online payments (cards, Apple/Google Pay), client accounts with 2FA, case stages and documents, instant alerts via email/WhatsApp/Telegram, CRM pipeline and e-contracts.",
+      "summary": "Big bilingual law-firm platform in UAE: bookings, payments, client portal, CRM. Budget far below scope.",
+      "source": {
+        "platform": "Mostaql",
+        "url": "https://mostaql.com/project/1287840",
+        "date": "2026-10-24",
+        "title": "تصميم موقع محاماه",
+        "poster": "Elshawi I.",
+        "excerpt": "Full family-law platform for the UAE on WordPress with booking, payments, client area, CRM and alerts; listed budget $50–100."
+      },
+      "contacts": {
+        "name": "Elshawi I.",
+        "role": "",
+        "emails": [],
+        "phones": [],
+        "whatsapp": "",
+        "website": "",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "other": "https://mostaql.com/project/1287840"
+      },
+      "email_subject": "Family law platform for the UAE — phased plan",
+      "email_subject_ar": "منصة قانون الأسرة في الإمارات — خطة تنفيذ على مراحل",
+      "message_en": "Hi,\n\nI read your full scope for the UAE family-law platform. It's a solid plan, but bookings, payments, client portal, CRM and e-contracts are a lot more than a $50–100 build. I'd suggest phase 1: bilingual site, services, knowledge center, consultation booking + online payment and instant WhatsApp/email alerts. Then the client portal and CRM as phase 2.\n\nWe're an Egypt-based WordPress team and can give you a fixed price per phase. Want me to send it?\n\nRamez",
+      "message_ar": "السلام عليكم،\n\nقريت نطاق منصة قانون الأسرة في الإمارات بالكامل، والفكرة ممتازة. بس بصراحة الحجز والدفع الإلكتروني وحساب العميل والـ CRM والتعاقد الإلكتروني أكبر بكتير من ميزانية 50–100 دولار.\n\nاقتراحي نقسمها مراحل:\nالمرحلة الأولى: موقع عربي/إنجليزي + صفحات الخدمات + مركز المعرفة + حجز الاستشارات مع الدفع أونلاين + تنبيهات فورية على الواتساب والإيميل.\nالمرحلة التانية: حساب العميل ومراحل القضية والمستندات والـ CRM والتعاقد الإلكتروني.\n\nإحنا فريق ووردبريس في مصر، وأقدر أبعتلك سعر ثابت ومدة لكل مرحلة. تحب أبعته؟\n\nرامز"
+    },
+    {
+      "id": "mq-gcc-recruitment-site-1023",
+      "added": "2026-10-24",
+      "posted": "2026-10-23",
+      "company": "GCC manpower recruitment site (Mohammed N.)",
+      "country": "GCC",
+      "city": "",
+      "platform": "Mostaql",
+      "type": "Freelance project",
+      "budget": "$500–1,000 · 20 days",
+      "stack": [
+        "WordPress",
+        "PHP",
+        "AJAX filters",
+        "Custom post types",
+        "WhatsApp",
+        "Jotform"
+      ],
+      "need": "English-only recruitment site showcasing Filipino workers for all GCC countries: candidate cards with instant AJAX filters (profession, current country, experience), full profile + intro video, 'Inquire via WhatsApp' with candidate code, easy apply form with photo/CV/passport/video upload (Jotform optional), employer request form, and a simple admin to add/update candidates from mobile. Must be very fast for Google/Facebook ad traffic.",
+      "summary": "GCC recruitment site: candidate cards, AJAX filters, video, WhatsApp inquiry, fast. $500–1,000.",
+      "source": {
+        "platform": "Mostaql",
+        "url": "https://mostaql.com/project/1287725",
+        "date": "2026-10-23",
+        "title": "تصميم وبرمجة موقع توظيف واستعراض عمالة لدول الخليج (English Only)",
+        "poster": "Mohammed N.",
+        "excerpt": "Candidate showcase with instant filters, video profiles, WhatsApp inquiry and mobile-friendly admin; site will run on paid ads so speed matters."
+      },
+      "contacts": {
+        "name": "Mohammed N.",
+        "role": "",
+        "emails": [],
+        "phones": [],
+        "whatsapp": "",
+        "website": "",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "other": "https://mostaql.com/project/1287725"
+      },
+      "email_subject": "Fast GCC recruitment site with AJAX candidate filters",
+      "email_subject_ar": "موقع توظيف سريع لدول الخليج بفلترة فورية للمرشحين",
+      "message_en": "Hi Mohammed,\n\nYour recruitment site is a clean WordPress build for us: candidates as a custom post type, instant AJAX filters by profession/country/experience, profile pages with video, a WhatsApp inquiry button that sends the candidate code, a simple apply form with uploads, and an admin you can update from your phone in a minute. Built light, so it loads fast from ads.\n\nWe're an Egypt-based WordPress team and can deliver within your 20 days. Shall I send a short plan and price?\n\nRamez",
+      "message_ar": "السلام عليكم أستاذ محمد،\n\nموقع التوظيف ده مناسب جداً لخبرتنا. هنبنيه على ووردبريس بالشكل ده:\n- المرشحين كـ Custom Post Type مع فلترة فورية AJAX حسب المهنة والدولة والخبرة.\n- كروت مرشحين أنيقة (صورة، كود، مهنة، دولة، راتب، Available/Hired) وصفحة تفاصيل بفيديو تعريفي.\n- زر Inquire via WhatsApp يبعت رسالة جاهزة فيها كود المرشح.\n- فورم تقديم سهل جداً برفع الصورة والسيرة/الجواز والفيديو (أو ربط Jotform)، وفورم طلبات لأصحاب العمل.\n- لوحة تحكم تقدر تحدّث منها المرشحين من الموبايل في دقيقة.\n- كود خفيف وسرعة عالية عشان الإعلانات.\n\nإحنا فريق ووردبريس في مصر ونقدر نسلّم خلال الـ 20 يوم. أبعتلك خطة وسعر مختصرين؟\n\nرامز"
+    },
+    {
+      "id": "mq-gulf-stores-agency-1010",
+      "added": "2026-10-24",
+      "posted": "2026-10-10",
+      "company": "Gulf e-commerce projects agency (Rahma Y.)",
+      "country": "GCC",
+      "city": "",
+      "platform": "Mostaql",
+      "type": "Outsourcing / white-label",
+      "budget": "$250–500 per store · 7 days",
+      "stack": [
+        "WooCommerce",
+        "Salla",
+        "Shopify",
+        "Payments",
+        "Shipping"
+      ],
+      "need": "Team running several store and company-site projects for Gulf clients needs a pro e-commerce developer: full mobile-first store ready to launch, payment gateways and shipping set up, strict deadlines. The chosen developer gets this project and becomes first choice for upcoming projects on an ongoing basis.",
+      "summary": "Agency with Gulf clients wants a go-to store developer (WooCommerce/Salla/Shopify), ongoing work.",
+      "source": {
+        "platform": "Mostaql",
+        "url": "https://mostaql.com/project/1284432",
+        "date": "2026-10-10",
+        "title": "مطلوب مطور/مبرمج محترف لتنفيذ متجر إلكتروني متكامل (WooCommerce / Salla / Shopify)",
+        "poster": "Rahma Y.",
+        "excerpt": "Manages multiple Gulf client projects; wants 2–3 recent live store links, cost and timeline for a full store; winner becomes first choice for future work."
+      },
+      "contacts": {
+        "name": "Rahma Y.",
+        "role": "",
+        "emails": [],
+        "phones": [],
+        "whatsapp": "",
+        "website": "",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "other": "https://mostaql.com/project/1284432"
+      },
+      "email_subject": "Your dedicated store team for Gulf client projects",
+      "email_subject_ar": "فريق متاجر ثابت لمشاريع عملائكم في الخليج",
+      "message_en": "Hi Rahma,\n\nSince you're running several Gulf store projects, you'll get more out of a small dedicated team than a single freelancer. We build mobile-first WooCommerce stores (and Salla/Shopify when the client needs it), including Gulf payment gateways and shipping, and we can work white-label under your name.\n\nI'll send 2–3 recent live stores plus a fixed price and a 7-day timeline for a complete store. Happy to be your first call for the next ones too.\n\nRamez",
+      "message_ar": "أهلاً أستاذة رحمة،\n\nبما إنكم شغالين على أكتر من مشروع متاجر لعملاء في الخليج، فريق صغير ثابت هيفيدكم أكتر من فريلانسر واحد. إحنا فريق ووردبريس في مصر بنبني متاجر WooCommerce بتصميم Mobile-First (وسلة أو شوبيفاي لو العميل محتاج)، مع ربط بوابات الدفع المنتشرة في الخليج وشركات الشحن، ونقدر نشتغل باسمكم (White-label).\n\nهبعتلك 2–3 متاجر لايف نفذناها مؤخراً، مع سعر ثابت ومدة 7 أيام لمتجر كامل من الصفر. ويسعدنا نكون الاختيار الأول لمشاريعكم الجاية.\n\nرامز"
+    },
+    {
       "id": "li-peaksy-1022",
       "added": "2026-10-24",
       "posted": "2026-10-22",
@@ -17,15 +195,15 @@
         "WhatsApp integration",
         "Maintenance"
       ],
-      "need": "Yearly maintenance of their existing WordPress site (updates, security checks, backups, troubleshooting, small content edits) plus a one-time mobile-responsive landing page (up to 5 sections) with a contact form and WhatsApp integration. Open to a freelancer or a company.",
-      "summary": "UAE company wants WP maintenance for a year + a 5-section landing page. AED 3.5–4k.",
+      "need": "UAE company wants yearly maintenance of its WordPress site (updates, security checks, backups, troubleshooting, small edits) plus a one-time mobile-responsive landing page (up to 5 sections) with a contact form and WhatsApp integration. Open to a freelancer or a company.",
+      "summary": "UAE company: WP maintenance for a year + 5-section landing page. AED 3.5–4k.",
       "source": {
         "platform": "LinkedIn",
         "url": "https://www.linkedin.com/posts/naqqash-rana_hello-everyone-we-are-looking-for-a-wordpress-share-7518962622352891905-RYuK/",
         "date": "2026-10-22",
         "title": "Looking for a WordPress developer / freelancer for Peaksy",
         "poster": "Muhammad Naqqash (Admin, HR & Facility Manager)",
-        "excerpt": "Maintenance + one new landing page, budget AED 3,500–4,000 for year one. Asks for portfolio, pricing and maintenance package details."
+        "excerpt": "Maintenance + one landing page, AED 3,500–4,000 for year one. Wants portfolio, pricing and maintenance package details."
       },
       "contacts": {
         "name": "Muhammad Naqqash",
@@ -41,185 +219,8 @@
       },
       "email_subject": "WordPress maintenance + landing page for Peaksy",
       "email_subject_ar": "صيانة ووردبريس + صفحة هبوط لـ Peaksy",
-      "message_en": "Hi Muhammad,\n\nI saw your post about the WordPress maintenance and new landing page for Peaksy. This is exactly what my team does every day: monthly updates, security checks and backups, plus fast, mobile-first landing pages with contact forms and WhatsApp.\n\nWe're an Egypt-based WordPress team, so we can deliver the landing page and a full year of maintenance comfortably within your AED 3,500–4,000 budget.\n\nCan I send you a short proposal with our portfolio and a clear maintenance package today?\n\nRamez",
-      "message_ar": "أهلاً أستاذ محمد،\n\nشفت بوست حضرتك بخصوص صيانة موقع Peaksy على ووردبريس وعمل صفحة هبوط جديدة. ده بالظبط شغلنا اليومي: تحديثات وفحص أمان وباك أب بشكل دوري، وصفحات هبوط سريعة ومتجاوبة مع الموبايل فيها فورم تواصل وربط واتساب.\n\nإحنا فريق ووردبريس في مصر، ونقدر ننفذ صفحة الهبوط مع صيانة سنة كاملة في حدود ميزانية 3,500–4,000 درهم براحة.\n\nتحب أبعتلك النهارده عرض مختصر فيه أعمالنا وتفاصيل باقة الصيانة؟\n\nرامز"
-    },
-    {
-      "id": "li-elevatex-global-1021",
-      "added": "2026-10-24",
-      "posted": "2026-10-21",
-      "company": "ElevateX Global",
-      "country": "India",
-      "city": "",
-      "platform": "LinkedIn",
-      "type": "Freelance project",
-      "budget": "Project-based (they ask for your commercials)",
-      "stack": [
-        "WordPress",
-        "WooCommerce",
-        "Shopify",
-        "PHP",
-        "Figma",
-        "CRO"
-      ],
-      "need": "Amazon/e-commerce marketing agency needs a senior freelance website developer (10+ yrs) for ongoing premium e-commerce and business sites for D2C brands: WordPress & WooCommerce, Shopify, speed, SEO, API integrations, CRO. Long-term, project-based, remote.",
-      "summary": "E-commerce agency outsourcing WooCommerce/Shopify builds to a senior freelancer, long-term.",
-      "source": {
-        "platform": "LinkedIn",
-        "url": "https://www.linkedin.com/posts/amolpatilelevatex_wearehiring-websitedeveloper-freelancedeveloper-share-7518575547476647936-qtYp/",
-        "date": "2026-10-21",
-        "title": "We're hiring: Senior Website Developer (Freelancer)",
-        "poster": "Amol Patil (Founder & CEO)",
-        "excerpt": "Remote, project-based, long-term collaboration. Wants resume, portfolio, live links and expected project commercials. E-commerce experience mandatory."
-      },
-      "contacts": {
-        "name": "Amol Patil",
-        "role": "Founder & CEO",
-        "emails": [
-          "hr@elevatex.global"
-        ],
-        "phones": [
-          "+91 80879 20342"
-        ],
-        "whatsapp": "",
-        "website": "https://elevatex.global/",
-        "linkedin": "https://www.linkedin.com/in/amolpatilelevatex/",
-        "facebook": "",
-        "instagram": "",
-        "other": ""
-      },
-      "email_subject": "Senior WordPress/WooCommerce team for ElevateX client builds",
-      "email_subject_ar": "فريق ووردبريس وووكومرس لمشاريع عملاء ElevateX",
-      "message_en": "Hi Amol,\n\nI saw ElevateX is looking for a senior freelance developer for e-commerce builds. Instead of one freelancer, I can offer you a full WordPress/WooCommerce team led by me: custom themes, WooCommerce and Shopify stores, speed and CRO work, and API integrations, delivered white-label under your brand.\n\nWe're based in Egypt, so our rates are very competitive for long-term D2C work, and we can take several projects in parallel.\n\nI'll send our portfolio with live store links and our project-based pricing. Would a short call this week work?\n\nRamez",
-      "message_ar": "أهلاً Amol،\n\nشفت إن ElevateX بتدور على مطور فريلانسر سينيور لمشاريع إي-كومرس. بدل فريلانسر واحد، أقدر أقدملك فريق ووردبريس وووكومرس كامل تحت إدارتي: ثيمات مخصصة، متاجر WooCommerce وShopify، تحسين السرعة ونسب التحويل، وربط APIs، وكله باسم شركتك (White-label).\n\nإحنا في مصر، فأسعارنا تنافسية جداً للشغل طويل المدى، ونقدر نشتغل على أكتر من مشروع في نفس الوقت.\n\nهبعتلك البورتفوليو بلينكات متاجر لايف وتسعير المشاريع. ينفع مكالمة قصيرة الأسبوع ده؟\n\nرامز"
-    },
-    {
-      "id": "li-usama-adeel-1022",
-      "added": "2026-10-24",
-      "posted": "2026-10-22",
-      "company": "Usama Adeel (project-based hire)",
-      "country": "",
-      "city": "",
-      "platform": "LinkedIn",
-      "type": "Freelance project",
-      "budget": "",
-      "stack": [
-        "WordPress",
-        "Elementor",
-        "WooCommerce"
-      ],
-      "need": "Looking for a WordPress developer to collaborate on a project basis (site design & development, Elementor/WooCommerce a plus), with ongoing projects if the first one goes well. Asks for portfolio, previous work and contact details.",
-      "summary": "Project-based WP dev wanted, ongoing work if it goes well. Posted in a freelancers jobs group.",
-      "source": {
-        "platform": "LinkedIn group",
-        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:10529678-7518651218185904128/",
-        "date": "2026-10-22",
-        "title": "Hiring: WordPress Developer (Project-Based)",
-        "poster": "Usama Adeel — in group 'JOBs for Freelancers'",
-        "excerpt": "Wants strong WordPress, Elementor/WooCommerce, good communication and on-time delivery; ongoing projects possible."
-      },
-      "contacts": {
-        "name": "Usama Adeel",
-        "role": "",
-        "emails": [],
-        "phones": [],
-        "whatsapp": "",
-        "website": "",
-        "linkedin": "",
-        "facebook": "",
-        "instagram": "",
-        "other": ""
-      },
-      "email_subject": "WordPress developer for your projects",
-      "email_subject_ar": "مطور ووردبريس لمشاريعك",
-      "message_en": "Hi Usama,\n\nSaw your post about a project-based WordPress developer. I lead a WordPress team in Egypt: Elementor Pro builds, WooCommerce stores, custom themes, and GSAP animations, with clear communication and on-time delivery.\n\nHappy to start with your first project so you can judge the quality, then keep going if it works for you. What's the project, and when do you need it live?\n\nRamez",
-      "message_ar": "أهلاً أسامة،\n\nشفت بوستك عن مطور ووردبريس بنظام المشروع. أنا بدير فريق ووردبريس في مصر: مواقع Elementor Pro، متاجر WooCommerce، ثيمات مخصصة وأنيميشن GSAP، مع تواصل واضح وتسليم في الميعاد.\n\nيسعدني نبدأ بأول مشروع وتحكم على الجودة بنفسك، ولو الشغل عجبك نكمل. المشروع إيه، ومحتاجه يبقى لايف إمتى؟\n\nرامز"
-    },
-    {
-      "id": "li-syeda-haniya-1019",
-      "added": "2026-10-24",
-      "posted": "2026-10-19",
-      "company": "Syeda Haniya (WordPress/Shopify studio)",
-      "country": "",
-      "city": "",
-      "platform": "LinkedIn",
-      "type": "Outsourcing / white-label",
-      "budget": "Fixed budget",
-      "stack": [
-        "WordPress",
-        "Elementor Pro",
-        "Custom themes",
-        "Plugins",
-        "Performance"
-      ],
-      "need": "A WordPress/Shopify specialist with client work needs a developer for an upcoming fixed-budget remote project: custom themes, plugins, Elementor/Elementor Pro, responsive design and performance optimization. Good fit for ongoing white-label overflow.",
-      "summary": "WP specialist subcontracting an upcoming fixed-budget build (custom theme, plugins, Elementor).",
-      "source": {
-        "platform": "LinkedIn",
-        "url": "https://www.linkedin.com/posts/syedahaniya_wordpressdeveloper-wordpress-hiring-share-7517821795475808256-jP-x/",
-        "date": "2026-10-19",
-        "title": "We're hiring a WordPress developer",
-        "poster": "Syeda Haniya (Certified WordPress Specialist, Shopify Partner)",
-        "excerpt": "Fixed budget, remote. Asks interested devs to share portfolio and experience in the comments."
-      },
-      "contacts": {
-        "name": "Syeda Haniya",
-        "role": "WordPress Specialist / Shopify Partner",
-        "emails": [],
-        "phones": [],
-        "whatsapp": "",
-        "website": "",
-        "linkedin": "https://www.linkedin.com/in/syedahaniya/",
-        "facebook": "",
-        "instagram": "",
-        "other": ""
-      },
-      "email_subject": "Dev partner for your WordPress projects",
-      "email_subject_ar": "شريك تطوير لمشاريع الووردبريس بتاعتك",
-      "message_en": "Hi Syeda,\n\nI saw you're hiring a WordPress developer for an upcoming fixed-budget project. My team in Egypt handles exactly that stack: custom themes and plugins, Elementor Pro, responsive builds and performance tuning.\n\nWe can work white-label behind you, so you keep the client and we take the build. Can you share the scope? I'll come back with a fixed price and timeline within 24 hours.\n\nRamez",
-      "message_ar": "أهلاً سيدة،\n\nشفت إنك بتدوري على مطور ووردبريس لمشروع جاي بميزانية ثابتة. فريقي في مصر شغال على نفس الستاك بالظبط: ثيمات وبلجنز مخصصة، Elementor Pro، تصميم متجاوب وتحسين الأداء.\n\nنقدر نشتغل White-label من وراكي، العميل يفضل معاكي وإحنا ننفذ. ممكن تبعتيلي تفاصيل المشروع؟ وهرد عليكي بسعر ثابت ومدة تنفيذ خلال 24 ساعة.\n\nرامز"
-    },
-    {
-      "id": "ot-mix3design-1013",
-      "added": "2026-10-24",
-      "posted": "2026-10-13",
-      "company": "Mix3Design",
-      "country": "",
-      "city": "",
-      "platform": "Other",
-      "type": "Outsourcing / white-label",
-      "budget": "Paid per project",
-      "stack": [
-        "WordPress",
-        "Site builds",
-        "Maintenance"
-      ],
-      "need": "Web design agency looking for remote WordPress freelancers from anywhere to design and build client WordPress sites and maintain/update existing client sites, with ongoing work for those who deliver.",
-      "summary": "Agency wants remote WP freelancers for client builds + maintenance, ongoing, paid per project.",
-      "source": {
-        "platform": "WP Mayor job board",
-        "url": "https://wpmayor.com/job/remote-wordpress-freelancers-for-client-website-projects/",
-        "date": "2026-10-13",
-        "title": "Remote WordPress Freelancers for Client Website Projects",
-        "poster": "Mix3Design",
-        "excerpt": "100% remote, open worldwide, payment per project, ongoing work for good performers. Apply via the WP Mayor listing."
-      },
-      "contacts": {
-        "name": "",
-        "role": "",
-        "emails": [],
-        "phones": [],
-        "whatsapp": "",
-        "website": "",
-        "linkedin": "",
-        "facebook": "",
-        "instagram": "",
-        "other": "https://wpmayor.com/job/remote-wordpress-freelancers-for-client-website-projects/"
-      },
-      "email_subject": "WordPress team for Mix3Design client projects",
-      "email_subject_ar": "فريق ووردبريس لمشاريع عملاء Mix3Design",
-      "message_en": "Hi Mix3Design team,\n\nI saw your listing for remote WordPress freelancers. Rather than a single freelancer, we're a small WordPress team in Egypt that can take several client builds and maintenance retainers at once: Elementor Pro and custom themes, WooCommerce, speed fixes, and GSAP animations.\n\nPer-project pricing works well for us, and our rates are competitive. Could you send over the next project so I can quote it?\n\nRamez",
-      "message_ar": "أهلاً فريق Mix3Design،\n\nشفت إعلانكم عن فريلانسرز ووردبريس ريموت. إحنا مش فريلانسر واحد، إحنا فريق ووردبريس صغير في مصر نقدر ناخد أكتر من موقع لعملائكم وعقود صيانة في نفس الوقت: Elementor Pro وثيمات مخصصة، WooCommerce، تحسين السرعة، وأنيميشن GSAP.\n\nالتسعير بالمشروع مناسب لينا، وأسعارنا تنافسية. ممكن تبعتولي المشروع الجاي عشان أسعّره؟\n\nرامز"
+      "message_en": "Hi Muhammad,\n\nI saw your post about WordPress maintenance and a new landing page for Peaksy. That's our daily work: regular updates, security checks and backups, plus fast mobile-first landing pages with contact forms and WhatsApp.\n\nWe're an Egypt-based WordPress team, so we can deliver the landing page and a full year of maintenance comfortably within your AED 3,500–4,000 budget.\n\nCan I send you a short proposal with our portfolio and a clear maintenance package today?\n\nRamez",
+      "message_ar": "أهلاً أستاذ محمد،\n\nشفت بوست حضرتك بخصوص صيانة موقع Peaksy على ووردبريس وعمل صفحة هبوط جديدة. ده شغلنا اليومي: تحديثات وفحص أمان وباك أب بشكل دوري، وصفحات هبوط سريعة ومتجاوبة فيها فورم تواصل وربط واتساب.\n\nإحنا فريق ووردبريس في مصر، ونقدر ننفذ صفحة الهبوط مع صيانة سنة كاملة في حدود 3,500–4,000 درهم براحة.\n\nتحب أبعتلك النهارده عرض مختصر فيه أعمالنا وتفاصيل باقة الصيانة؟\n\nرامز"
     }
   ]
 }
