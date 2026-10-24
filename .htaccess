@@ -1,0 +1,14 @@
+Options -Indexes
+DirectoryIndex index.php
+
+# Block direct access to data, runtime state, docs and dotfiles
+RewriteEngine On
+RewriteRule ^(data|storage|scripts)(/|$) - [F,L]
+RewriteRule (^|/)\. - [F,L]
+RewriteRule \.(md|json|sh)$ - [F,L]
+
+<IfModule mod_headers.c>
+  Header set X-Robots-Tag "noindex, nofollow"
+  Header set X-Frame-Options "DENY"
+  Header set X-Content-Type-Options "nosniff"
+</IfModule>
