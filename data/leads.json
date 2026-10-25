@@ -43,6 +43,63 @@
       "email_subject_ar": "صيانة ووردبريس + صفحة هبوط لـ Peaksy",
       "message_en": "Hi Muhammad,\n\nI saw your post about WordPress maintenance and a new landing page for Peaksy. That's our daily work: regular updates, security checks and backups, plus fast mobile-first landing pages with contact forms and WhatsApp.\n\nWe're an Egypt-based WordPress team, so we can deliver the landing page and a full year of maintenance comfortably within your AED 3,500–4,000 budget.\n\nCan I send you a short proposal with our portfolio and a clear maintenance package today?\n\nRamez",
       "message_ar": "أهلاً أستاذ محمد،\n\nشفت بوست حضرتك بخصوص صيانة موقع Peaksy على ووردبريس وعمل صفحة هبوط جديدة. ده شغلنا اليومي: تحديثات وفحص أمان وباك أب بشكل دوري، وصفحات هبوط سريعة ومتجاوبة فيها فورم تواصل وربط واتساب.\n\nإحنا فريق ووردبريس في مصر، ونقدر ننفذ صفحة الهبوط مع صيانة سنة كاملة في حدود 3,500–4,000 درهم براحة.\n\nتحب أبعتلك النهارده عرض مختصر فيه أعمالنا وتفاصيل باقة الصيانة؟\n\nرامز"
+    },
+    {
+      "id": "wz-mind-institute-1025",
+      "added": "2026-10-25",
+      "posted": "2026-10-19",
+      "company": "Mind Institute (+ Mind Center & Little Steamers Nursery)",
+      "country": "Qatar",
+      "city": "Doha",
+      "platform": "Wuzzuf",
+      "type": "Maintenance",
+      "budget": "Fixed-price audit first, then ongoing paid work (salary confidential)",
+      "stack": [
+        "WordPress",
+        "Elementor",
+        "Technical SEO",
+        "Schema",
+        "GEO / AI search",
+        "Arabic RTL",
+        "GA4 / Search Console"
+      ],
+      "need": "Three sister organisations in Doha (therapy clinic, specialist education, nursery) run 3 WordPress sites. Phase 1: fixed-price audit of all three — technical health, on-page SEO, structured data, Arabic/RTL, and why they don't show up in ChatGPT/Claude/Gemini/Google AI answers — with a prioritised, priced fix plan. Then ongoing remote work: maintenance, updates, backups, security, uptime monitoring, Elementor pages in EN/AR, technical SEO and monthly GA4/Search Console reports.",
+      "summary": "Doha therapy/education group: audit 3 WordPress sites for Google + AI search, then ongoing maintenance retainer. Remote.",
+      "source": {
+        "platform": "Wuzzuf",
+        "url": "https://wuzzuf.net/jobs/p/4mp1j4dienyj-wordpress-developer-mind-institute-cairo-egypt",
+        "date": "2026-10-19",
+        "title": "WordPress Developer — Mind Institute (Freelance / Project, Remote)",
+        "poster": "Mind Institute",
+        "excerpt": "Remote WordPress developer to own 3 Doha sites: fixed-price audit focused on AI-search/GEO visibility, then paid ongoing maintenance, Elementor EN/AR pages and technical SEO; works with the Director and internal IT."
+      },
+      "contacts": {
+        "name": "Director (name not stated)",
+        "role": "Director",
+        "emails": [
+          "info@mindinstituteqatar.com"
+        ],
+        "phones": [
+          "+974 4418 1968"
+        ],
+        "whatsapp": "+974 3337 7648",
+        "website": "https://mindinstitutes.com/",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "other": "Phone +974 4418 1968 from zavis.ai directory; email and WhatsApp from the website"
+      },
+      "extra_sources": [
+        {
+          "title": "Clinic listing (address/phone)",
+          "url": "https://www.zavis.ai/qa/directory/doha/clinics/mind-institute",
+          "date": "2026-10-25"
+        }
+      ],
+      "email_subject": "Audit plan for your 3 sites — Google & AI search visibility",
+      "email_subject_ar": "خطة تدقيق مواقعكم الثلاثة للظهور في Google وإجابات الذكاء الاصطناعي",
+      "message_en": "Dear Director,\n\nI saw your WordPress role for Mind Institute, Mind Center and Little Steamers. We're an Egypt-based WordPress team and this is exactly what we do: a fixed-price audit of the three sites (speed, mobile, indexing, on-page SEO, Arabic RTL), a baseline of how each organisation appears today in ChatGPT, Claude, Gemini, Perplexity and Google AI Overviews, and a prioritised fix list with effort, impact and price — covering Schema (MedicalClinic / EducationalOrganization / ChildCare), entity/NAP consistency, AI-crawler access and parent-question content.\n\nAfter that we can take over maintenance, Elementor pages in English and Arabic, monitoring and monthly GA4/Search Console reports at a competitive monthly rate. Could I send a one-page audit scope and price this week?\n\nRamez",
+      "message_ar": "حضرة المدير المحترم،\n\nاطلعت على إعلانكم لمطور ووردبريس لمواقع Mind Institute وMind Center وLittle Steamers. نحن فريق ووردبريس في مصر، وهذا بالضبط مجال عملنا:\n\n- تدقيق بسعر ثابت للمواقع الثلاثة: السرعة، الجوال، الأرشفة، السيو الداخلي، والمحتوى العربي واتجاه RTL.\n- قياس مبدئي لظهور كل جهة اليوم في ChatGPT وClaude وGemini وPerplexity وGoogle AI Overviews، وطريقة لإعادة القياس بعد التنفيذ.\n- قائمة إصلاحات مرتبة حسب الأولوية مع الجهد والأثر والسعر: Schema لكل جهة (عيادة / تعليم / حضانة)، توحيد الاسم والعنوان والهاتف، السماح لزواحف الذكاء الاصطناعي وllms.txt، ومحتوى يجيب عن أسئلة أولياء الأمور.\n\nبعدها نتولى الصيانة والتحديثات والنسخ الاحتياطي والمراقبة، وبناء صفحات Elementor بالعربي والإنجليزي، وتقرير شهري من GA4 وSearch Console بسعر شهري منافس. هل يناسبكم أن أرسل نطاق التدقيق وسعره في صفحة واحدة هذا الأسبوع؟\n\nرامز"
     }
   ]
 }
