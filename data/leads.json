@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "leads": [
     {
       "id": "mq-papyrus-store-1024",
@@ -221,6 +221,230 @@
       "email_subject_ar": "صيانة ووردبريس + صفحة هبوط لـ Peaksy",
       "message_en": "Hi Muhammad,\n\nI saw your post about WordPress maintenance and a new landing page for Peaksy. That's our daily work: regular updates, security checks and backups, plus fast mobile-first landing pages with contact forms and WhatsApp.\n\nWe're an Egypt-based WordPress team, so we can deliver the landing page and a full year of maintenance comfortably within your AED 3,500–4,000 budget.\n\nCan I send you a short proposal with our portfolio and a clear maintenance package today?\n\nRamez",
       "message_ar": "أهلاً أستاذ محمد،\n\nشفت بوست حضرتك بخصوص صيانة موقع Peaksy على ووردبريس وعمل صفحة هبوط جديدة. ده شغلنا اليومي: تحديثات وفحص أمان وباك أب بشكل دوري، وصفحات هبوط سريعة ومتجاوبة فيها فورم تواصل وربط واتساب.\n\nإحنا فريق ووردبريس في مصر، ونقدر ننفذ صفحة الهبوط مع صيانة سنة كاملة في حدود 3,500–4,000 درهم براحة.\n\nتحب أبعتلك النهارده عرض مختصر فيه أعمالنا وتفاصيل باقة الصيانة؟\n\nرامز"
+    },
+    {
+      "id": "mq-doha-centers-seo-1025",
+      "added": "2026-10-25",
+      "posted": "2026-10-25",
+      "company": "3 specialist centers in Doha (Manal H.)",
+      "country": "Qatar",
+      "city": "Doha",
+      "platform": "Mostaql",
+      "type": "Freelance project",
+      "budget": "$500–1000 · 20 days (phase 1)",
+      "stack": [
+        "WordPress",
+        "Technical SEO",
+        "Schema",
+        "Google Search Console",
+        "GEO / AEO",
+        "Arabic RTL / bilingual"
+      ],
+      "need": "Full audit of 3 existing bilingual (AR/EN) WordPress sites for specialist centers in Doha: speed, mobile, technical errors, security and indexing; explain weak visibility in Google and AI answers (ChatGPT/Gemini/Claude); prioritized report then implement fixes (Schema, titles/meta, internal links, speed, NAP consistency). Possible ongoing maintenance + uptime monitoring after phase 1. Prefers freelancers in Egypt or Jordan.",
+      "summary": "Audit + fix 3 bilingual WordPress sites in Doha for Google & AI visibility; maintenance may follow. Prefers Egypt.",
+      "source": {
+        "platform": "Mostaql",
+        "url": "https://mostaql.com/project/1288078",
+        "date": "2026-10-25",
+        "title": "تدقيق وإصلاح 3 مواقع ووردبريس وتحسين الظهور في Google وإجابات الذكاء الاصطناعي",
+        "poster": "Manal H.",
+        "excerpt": "Three live WordPress sites for Doha centers need a technical/SEO audit, GEO/AEO work and fixes; Egypt/Jordan-based devs preferred; maintenance retainer possible."
+      },
+      "contacts": {
+        "name": "Manal H.",
+        "role": "",
+        "emails": [],
+        "phones": [],
+        "whatsapp": "",
+        "website": "",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "other": "https://mostaql.com/project/1288078"
+      },
+      "email_subject": "Audit & fix plan for your 3 Doha WordPress sites",
+      "email_subject_ar": "خطة تدقيق وإصلاح مواقعكم الثلاثة في الدوحة",
+      "message_en": "Hi Manal,\n\nWe're an Egypt-based WordPress team and your brief is exactly our kind of work: a full technical audit of the three Doha center sites (speed, mobile, security, indexing in Search Console), a prioritized report, then the fixes — Schema (LocalBusiness/MedicalClinic + FAQ), titles/meta in both Arabic and English, internal linking, Core Web Vitals and consistent NAP data, plus structured Q&A content so the centers get cited in ChatGPT/Gemini answers.\n\nWe can deliver phase 1 within your 20 days and then take over monitoring and maintenance on a monthly plan. Happy to share before/after results from similar bilingual sites and a fixed phase-1 quote within 24h.\n\nRamez",
+      "message_ar": "السلام عليكم أستاذة منال،\n\nقرأت تفاصيل المشروع، ونطاقه قريب جداً من شغلنا اليومي. إحنا فريق ووردبريس في مصر، وده تصورنا للمرحلة الأولى:\n\n1) تدقيق شامل للمواقع الثلاثة: السرعة وCore Web Vitals، التوافق مع الموبايل، الأخطاء التقنية، الأمان، وحالة الفهرسة في Google Search Console.\n2) تحليل أسباب ضعف الظهور في Google وفي إجابات ChatGPT وGemini وClaude، وتقرير بالمشكلات مرتبة حسب الأولوية مع خطة الإصلاح.\n3) تنفيذ الإصلاحات: بيانات منظمة (LocalBusiness / MedicalBusiness + FAQ)، العناوين والوصف بالعربي والإنجليزي، الروابط الداخلية، تحسين السرعة، وتوحيد بيانات الاسم والعنوان والهاتف (NAP) على المواقع وGoogle Business Profile.\n4) GEO / AEO: صفحات أسئلة وأجوبة ومحتوى منظم بصيغة يسهل على أنظمة الذكاء الاصطناعي الاستشهاد بيه، مع ضبط llms.txt وملفات الفهرسة.\n\nعندنا خبرة في المواقع ثنائية اللغة (RTL) وأكتر من 3 سنين في ووردبريس والسيو التقني، وهبعت لحضرتك أمثلة بنتائج قبل وبعد.\nالمدة المقترحة: 15–20 يوم للمرحلة الأولى، وبعدها نقدر نتولى الصيانة والمراقبة الشهرية والتدخل الفوري عند أي توقف.\n\nيسعدني أوضح السعر النهائي للمرحلة الأولى بعد نظرة سريعة على روابط المواقع.\n\nرامز"
+    },
+    {
+      "id": "mq-water-treatment-store-1024",
+      "added": "2026-10-25",
+      "posted": "2026-10-24",
+      "company": "Water treatment & filters store (Aelmustaqbal W.)",
+      "country": "",
+      "city": "",
+      "platform": "Mostaql",
+      "type": "Freelance project",
+      "budget": "$250–500 · 30 days",
+      "stack": [
+        "WordPress",
+        "WooCommerce",
+        "UI/UX & CRO",
+        "Checkout / payment gateways",
+        "SEO & GEO",
+        "GA4 / GTM"
+      ],
+      "need": "Existing store for water treatment systems and filters: redesign product/category UI for conversions, dynamic 'choose your station' selector based on water volume, custom checkout with live price by options/quantities/equipment size, shipping options and payment gateways, Hotjar; plus technical SEO (speed, sitemap, Schema), product copy for top 30 products, GEO/AI visibility, GA/GTM/Clarity/Search Console and monthly reports.",
+      "summary": "Revamp a water-filters WooCommerce store: CRO redesign, dynamic station selector, custom checkout, SEO/GEO.",
+      "source": {
+        "platform": "Mostaql",
+        "url": "https://mostaql.com/project/1287996",
+        "date": "2026-10-24",
+        "title": "مطور للموقع محترف للمحتوى البصري وتحسين محركات البحث SEO ومعدل التحويل CRO والظهور في AI",
+        "poster": "Aelmustaqbal W.",
+        "excerpt": "Arabic water-treatment store wants a serious developer for UI/CRO redesign, dynamic product selection, checkout customization and full SEO/GEO."
+      },
+      "contacts": {
+        "name": "Aelmustaqbal W.",
+        "role": "",
+        "emails": [],
+        "phones": [],
+        "whatsapp": "",
+        "website": "",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "other": "https://mostaql.com/project/1287996"
+      },
+      "email_subject": "Conversion revamp for your water-filters store",
+      "email_subject_ar": "تطوير متجر أنظمة معالجة المياه لرفع المبيعات",
+      "message_en": "Hello,\n\nI went through your brief for the water-treatment store. We'd split it into two tracks: (1) development — a cleaner product/category layout with clear offers, a 'find the right station' selector driven by daily water volume, and a simplified checkout that prices live by options, quantity and equipment size, with shipping and payment gateways set up properly; (2) growth — PageSpeed fixes, product Schema, keyword-led copy for your top 30 products, FAQ/buying guides for AI search, and GA4/GTM/Clarity/Search Console tracking with a monthly report.\n\nWe're an Egypt-based WordPress/WooCommerce team with competitive rates. I can send a phased plan and quote within 24h.\n\nRamez",
+      "message_ar": "السلام عليكم،\n\nقرأت تفاصيل تطوير متجر أنظمة معالجة المياه والفلاتر، والمطلوب واضح ومنظم. إحنا فريق ووردبريس وووكومرس في مصر، ونقترح ننفذه على مرحلتين:\n\nالمرحلة الأولى – التطوير وتجربة الشراء:\n- إعادة تصميم صفحات المنتجات والتصنيفات بشكل عصري يبرز الخصومات والعروض ويرفع معدل التحويل.\n- أداة \"اختر المحطة المناسبة\" تلقائياً حسب كمية المياه اليومية أو احتياج العميل.\n- صفحة دفع مبسطة بحساب سعر مباشر حسب الخيارات والكميات وأحجام المعدات، وضبط شركات الشحن وبوابات الدفع بشكل آمن.\n- ربط Hotjar / Microsoft Clarity لمتابعة سلوك الزوار.\n\nالمرحلة الثانية – السيو والظهور في الذكاء الاصطناعي:\n- تحسين السرعة حسب PageSpeed، وضبط Robots وSitemap وSchema للمنتجات.\n- كلمات مفتاحية ووصف تسويقي لأهم 30 منتج، وأدلة شراء وأسئلة شائعة تساعد على الظهور في ChatGPT وGemini.\n- ربط GA4 وTag Manager وSearch Console وMerchant Center، مع تقرير أداء شهري.\n\nأسعارنا مناسبة والتسليم في حدود الـ 30 يوم. يسعدني أبعت أمثلة لمتاجر نفذناها وخطة تفصيلية بعد الاطلاع على رابط المتجر.\n\nرامز"
+    },
+    {
+      "id": "kh-dounia-wp-dev-1023",
+      "added": "2026-10-25",
+      "posted": "2026-10-23",
+      "company": "Dounia A. (Khamsat client)",
+      "country": "",
+      "city": "",
+      "platform": "Khamsat",
+      "type": "Freelance project",
+      "budget": "",
+      "stack": [
+        "WordPress",
+        "Elementor",
+        "Bricks Builder",
+        "HTML/CSS",
+        "Speed & SEO",
+        "Maintenance"
+      ],
+      "need": "Looking for an experienced WordPress developer/designer fluent in Elementor and Bricks to build modern responsive sites, improve speed and SEO, and handle maintenance, updates and technical fixes. Wants portfolio samples, price and delivery time.",
+      "summary": "Khamsat client needs a pro WordPress dev (Elementor + Bricks) for builds, speed/SEO and maintenance.",
+      "source": {
+        "platform": "Khamsat",
+        "url": "https://khamsat.com/community/requests/799452",
+        "date": "2026-10-23",
+        "title": "مطلوب مطور مواقع WordPress محترف",
+        "poster": "Dounia A.",
+        "excerpt": "Wants a serious, independent WordPress developer skilled in Elementor, Bricks, HTML/CSS, speed, SEO and maintenance; asks for samples, price and timeline."
+      },
+      "contacts": {
+        "name": "Dounia A.",
+        "role": "",
+        "emails": [],
+        "phones": [],
+        "whatsapp": "",
+        "website": "",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "other": "https://khamsat.com/community/requests/799452"
+      },
+      "email_subject": "WordPress builds & maintenance with Elementor and Bricks",
+      "email_subject_ar": "تطوير وصيانة مواقع ووردبريس بـ Elementor وBricks",
+      "message_en": "Hi Dounia,\n\nWe're an Egypt-based WordPress team working daily with Elementor and Bricks — modern responsive builds, speed optimization (Core Web Vitals), on-page SEO and ongoing maintenance/updates. Because we're a team, not a single freelancer, deadlines don't slip when the workload grows.\n\nI can send 3–4 live samples (Elementor and Bricks) plus a clear price per site or a monthly maintenance plan within 24h.\n\nRamez",
+      "message_ar": "أهلاً أستاذة دنيا،\n\nشفت طلبك على خمسات لمطور ووردبريس محترف. إحنا فريق ووردبريس في مصر، شغلنا اليومي بالظبط في اللي حضرتك طالباه:\n- تصميم وتطوير مواقع عصرية متجاوبة بـ Elementor وBricks مع تعديلات HTML/CSS حسب الحاجة.\n- تحسين السرعة (Core Web Vitals) وتهيئة السيو الداخلي.\n- صيانة وتحديثات دورية وحل أي مشاكل تقنية بسرعة.\n\nوبما إننا فريق مش شخص واحد، المواعيد بتتلتزم حتى مع ضغط الشغل. هبعتلك 3–4 مواقع لايف (Elementor وBricks)، وسعر واضح لكل موقع أو باقة صيانة شهرية حسب احتياجك، ومدة التنفيذ بعد ما أعرف تفاصيل أول مشروع.\n\nرامز"
+    },
+    {
+      "id": "mq-mnj-office-site-fix-1017",
+      "added": "2026-10-25",
+      "posted": "2026-10-17",
+      "company": "MNJ office (ksafem-mnj.com)",
+      "country": "Saudi Arabia (likely, from ksa domain)",
+      "city": "",
+      "platform": "Mostaql",
+      "type": "Freelance project",
+      "budget": "$100–250 · 5 days",
+      "stack": [
+        "WordPress",
+        "PHP",
+        "MySQL",
+        "Hosting / DNS",
+        "Debugging"
+      ],
+      "need": "The MNJ office website (ksafem-mnj.com) is down: diagnose hosting, domain, database and code to find the exact cause, explain it before changing anything, take a backup, fix it, test on mobile and desktop, and deliver a short report with prevention steps.",
+      "summary": "Broken WordPress site for MNJ office — diagnose root cause, back up, fix and stabilise in 5 days.",
+      "source": {
+        "platform": "Mostaql",
+        "url": "https://mostaql.com/project/1286132",
+        "date": "2026-10-17",
+        "title": "تشخيص وإصلاح عطل في موقع إلكتروني وإعادة تشغيله",
+        "poster": "نورس ج.",
+        "excerpt": "Office site ksafem-mnj.com is broken; client wants a root-cause diagnosis, backup, fix, testing and a short report. Client has 76% hire rate on Mostaql."
+      },
+      "contacts": {
+        "name": "نورس ج.",
+        "role": "",
+        "emails": [],
+        "phones": [],
+        "whatsapp": "",
+        "website": "https://ksafem-mnj.com/",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "other": "https://mostaql.com/project/1286132"
+      },
+      "email_subject": "Getting ksafem-mnj.com back online",
+      "email_subject_ar": "إعادة تشغيل موقع مكتب MNJ",
+      "message_en": "Hello,\n\nI tried ksafem-mnj.com and it isn't loading right now. We fix exactly these cases: we check hosting, DNS/SSL, the database and PHP/plugin errors, tell you the root cause before touching anything, take a full backup, fix it, then test all key pages on mobile and desktop and send a short report on how to prevent it again.\n\nWe're an Egypt-based WordPress team — most outages like this are solved within 24–48h. Happy to start as soon as access is shared.\n\nRamez",
+      "message_ar": "السلام عليكم أستاذ نورس،\n\nجربت أفتح موقع ksafem-mnj.com ولقيته فعلاً مش بيفتح حالياً. ده نوع الأعطال اللي بنتعامل معاه باستمرار، وخطتنا كالتالي:\n1) فحص الاستضافة والدومين والـ DNS وشهادة SSL وقاعدة البيانات وسجلات أخطاء PHP والإضافات.\n2) نوضح لحضرتك سبب العطل بالظبط والإصلاح المطلوب قبل أي تعديل.\n3) نسخة احتياطية كاملة للملفات وقاعدة البيانات قبل البدء، مع الحفاظ على كل المحتوى.\n4) الإصلاح ثم اختبار الصفحات والنماذج الأساسية على الموبايل والكمبيوتر.\n5) تقرير مختصر بما تم، وخطوات تمنع تكرار المشكلة (تحديثات، نسخ احتياطي تلقائي، مراقبة توقف).\n\nإحنا فريق ووردبريس في مصر، وغالباً الأعطال دي بتتحل خلال 24–48 ساعة من استلام الصلاحيات. التكلفة واضحة من البداية وأي تكلفة إضافية (لو احتاج الأمر تجديد أو ترخيص) هنوضحها قبل التنفيذ.\n\nرامز"
+    },
+    {
+      "id": "mq-houzez-real-estate-1015",
+      "added": "2026-10-25",
+      "posted": "2026-10-15",
+      "company": "Real estate portal on Houzez (مينا ج.)",
+      "country": "",
+      "city": "",
+      "platform": "Mostaql",
+      "type": "Freelance project",
+      "budget": "$100–250 · 180 days",
+      "stack": [
+        "WordPress",
+        "Houzez theme",
+        "PHP",
+        "Speed optimization",
+        "Technical SEO",
+        "Child theme"
+      ],
+      "need": "Full review of a live real-estate site on the Houzez theme: documented audit (theme, plugins, custom code, DB), speed and stability fixes especially when submitting listings, technical SEO (meta, sitemaps, canonical, Schema, broken links), code/PHP compatibility via child theme, fixing the add-property forms and fields per property type (sale/rent), UX fixes, and training videos for managing the site.",
+      "summary": "Audit & fix a Houzez real-estate site: speed, listing-submission forms, technical SEO, code cleanup, training videos.",
+      "source": {
+        "platform": "Mostaql",
+        "url": "https://mostaql.com/project/1285692",
+        "date": "2026-10-15",
+        "title": "مطور WordPress خبير بقالب Houzez لمراجعة وتحسين موقع عقاري بالكامل",
+        "poster": "مينا ج.",
+        "excerpt": "Existing Houzez real-estate site needs a full audit, speed/stability fixes, SEO, property-form cleanup, staging-first changes and recorded training videos."
+      },
+      "contacts": {
+        "name": "مينا ج.",
+        "role": "",
+        "emails": [],
+        "phones": [],
+        "whatsapp": "",
+        "website": "",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "other": "https://mostaql.com/project/1285692"
+      },
+      "email_subject": "Houzez audit, speed and listing-form fixes",
+      "email_subject_ar": "مراجعة وتحسين موقعكم العقاري على Houzez",
+      "message_en": "Hi Mina,\n\nWe've worked with Houzez real-estate sites and your scope is clear. We'd start with a documented audit on a staging copy (theme, plugins, custom code, DB, PHP version) with PageSpeed/GTmetrix baselines, then fix the slow/crashing listing submission, clean up the add-property fields per type (sale/rent, areas, prices, rental period), sort out SEO (sitemaps, canonical, Schema, broken links) and move custom code into a child theme so updates stay safe. We finish with a before/after report and short training videos.\n\nWe're an Egypt-based WordPress team with competitive rates — I can share real-estate samples and a split quote (audit vs. implementation) within 24h.\n\nRamez",
+      "message_ar": "أهلاً أستاذ مينا،\n\nقرأت نطاق العمل كامل، وإحنا اشتغلنا قبل كده على مواقع عقارية بقالب Houzez. منهجيتنا:\n\n1) الفحص: نسخة احتياطية كاملة ونسخة تجريبية (Staging)، ثم مراجعة القالب والإضافات والأكواد المخصصة وقاعدة البيانات وإصدار PHP، وقياس الأداء قبل العمل بـ PageSpeed وGTmetrix، وتقرير موثق بالمشكلات والأولويات بلقطات شاشة.\n2) السرعة والاستقرار: معالجة سبب البطء والتوقف وقت إضافة العقارات وإرسالها للمراجعة، تحسين الصور والكاش وقاعدة البيانات.\n3) نماذج إضافة العقار: تنظيم الحقول حسب نوع العقار والغرض (بيع/إيجار)، المناطق والأسعار والمساحات ومدة الإيجار، والتحقق من البيانات، واختبار كل الأنواع.\n4) السيو التقني: الفهرسة وخرائط الموقع وCanonical وSchema والروابط المعطلة والتكرار.\n5) الأكواد: نقل التعديلات لـ Child Theme أو إضافة مخصصة عشان تفضل ثابتة مع التحديثات، بدون أي قوالب أو إضافات مقرصنة.\n6) التسليم: تقرير نهائي بمقارنة قبل وبعد، فترة ضمان، وفيديوهات تدريبية عملية لإدارة الموقع.\n\nهبعت أمثلة لمواقع عقارية، وتكلفة الفحص منفصلة عن التنفيذ زي ما طلبت حضرتك.\n\nرامز"
     }
   ]
 }
