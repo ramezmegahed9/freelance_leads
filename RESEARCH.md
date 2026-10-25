@@ -16,9 +16,12 @@ Someone who publicly said they NEED WordPress work, recently:
 - Agencies looking for a white-label / outsourced WordPress team.
 - Companies asking for a new WordPress/WooCommerce site, redesign, fixes, speed, migration, maintenance.
 
-Sources to search (Arab-first): Mostaql (mostaql.com/projects?skills=wordpress&sort=latest — best daily source, Arab clients),
-Khamsat requests, LinkedIn posts (Arabic + English with Egypt/KSA/UAE/GCC keywords), Facebook public posts and Arab freelance/WordPress groups,
+Sources to search (Arab-first): LinkedIn posts (Arabic + English with Egypt/KSA/UAE/GCC keywords), Facebook public posts and Arab freelance/WordPress groups,
 Instagram, Wuzzuf, Bayt, Forasna, Tanqeeb, Google Jobs (Egypt/GCC), company careers pages. Use the built-in browser when search snippets aren't enough.
+
+## NO freelance marketplaces (hard rule — Ramez's decision, 2026-10-25)
+Never take leads from freelance/bidding marketplaces: Mostaql, Khamsat, Upwork, Freelancer, Fiverr, PeoplePerHour, Ureed, Nafezly, Bahr and similar.
+Leads must come from companies/people posting directly: LinkedIn, Facebook, Instagram, X, job boards (Wuzzuf, Bayt, Forasna, Tanqeeb), Google Jobs, company careers pages.
 
 ## Markets — ARAB ONLY (hard rule)
 Only leads where the client/company is Arab or the business is in an Arab country:
@@ -39,9 +42,9 @@ Priority: 1) Egypt  2) Saudi Arabia & UAE  3) rest of GCC  4) other Arab countri
 - Exactly 5 new leads per run (more only if all are strong). Prefer leads with an email or phone.
 
 ## Lead fields
-- id: platform prefix + slug (`li-`, `fb-`, `ig-`, `gj-` google jobs, `mq-` mostaql, `kh-` khamsat, `wz-` wuzzuf, `bt-` bayt, `ot-` other) + company slug + MMDD
+- id: platform prefix + slug (`li-`, `fb-`, `ig-`, `gj-` google jobs, `wz-` wuzzuf, `bt-` bayt, `ot-` other) + company slug + MMDD
 - added (run date, YYYY-MM-DD), posted (post date, YYYY-MM-DD)
-- company, country, city, platform (LinkedIn / Facebook / Instagram / Mostaql / Khamsat / Google Jobs / Wuzzuf / Bayt / Other)
+- company, country, city, platform (LinkedIn / Facebook / Instagram / Google Jobs / Wuzzuf / Bayt / Other)
 - type: one of `Freelance project`, `Part-time`, `Contract`, `Full-time remote`, `Outsourcing / white-label`, `Maintenance`
 - budget (only if stated), stack[] (e.g. WordPress, Elementor, WooCommerce, PHP)
 - need: exactly what they need, concrete (1–3 sentences)
@@ -53,6 +56,5 @@ Priority: 1) Egypt  2) Saudi Arabia & UAE  3) rest of GCC  4) other Arab countri
 - message_en: short, personal, references their exact need, 1 line on the team (Egypt-based WordPress team, competitive rates,
   fast delivery), offers a concrete next step (quick call / sample / quote in 24h). Sign: Ramez.
 - message_ar: same message in natural professional Arabic (Egyptian tone for Egypt, neutral/Gulf-friendly for GCC; not a literal translation). Sign: رامز.
-  For Mostaql/Khamsat leads the Arabic message is written as a ready-to-paste proposal (عرض) for that platform.
 
 Set top-level `updated` to the run date.
