@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "leads": [
     {
       "id": "li-peaksy-1022",
@@ -100,6 +100,141 @@
       "email_subject_ar": "خطة تدقيق مواقعكم الثلاثة للظهور في Google وإجابات الذكاء الاصطناعي",
       "message_en": "Dear Director,\n\nI saw your WordPress role for Mind Institute, Mind Center and Little Steamers. We're an Egypt-based WordPress team and this is exactly what we do: a fixed-price audit of the three sites (speed, mobile, indexing, on-page SEO, Arabic RTL), a baseline of how each organisation appears today in ChatGPT, Claude, Gemini, Perplexity and Google AI Overviews, and a prioritised fix list with effort, impact and price — covering Schema (MedicalClinic / EducationalOrganization / ChildCare), entity/NAP consistency, AI-crawler access and parent-question content.\n\nAfter that we can take over maintenance, Elementor pages in English and Arabic, monitoring and monthly GA4/Search Console reports at a competitive monthly rate. Could I send a one-page audit scope and price this week?\n\nRamez",
       "message_ar": "حضرة المدير المحترم،\n\nاطلعت على إعلانكم لمطور ووردبريس لمواقع Mind Institute وMind Center وLittle Steamers. نحن فريق ووردبريس في مصر، وهذا بالضبط مجال عملنا:\n\n- تدقيق بسعر ثابت للمواقع الثلاثة: السرعة، الجوال، الأرشفة، السيو الداخلي، والمحتوى العربي واتجاه RTL.\n- قياس مبدئي لظهور كل جهة اليوم في ChatGPT وClaude وGemini وPerplexity وGoogle AI Overviews، وطريقة لإعادة القياس بعد التنفيذ.\n- قائمة إصلاحات مرتبة حسب الأولوية مع الجهد والأثر والسعر: Schema لكل جهة (عيادة / تعليم / حضانة)، توحيد الاسم والعنوان والهاتف، السماح لزواحف الذكاء الاصطناعي وllms.txt، ومحتوى يجيب عن أسئلة أولياء الأمور.\n\nبعدها نتولى الصيانة والتحديثات والنسخ الاحتياطي والمراقبة، وبناء صفحات Elementor بالعربي والإنجليزي، وتقرير شهري من GA4 وSearch Console بسعر شهري منافس. هل يناسبكم أن أرسل نطاق التدقيق وسعره في صفحة واحدة هذا الأسبوع؟\n\nرامز"
+    },
+    {
+      "id": "fb-wp-10-sites-egypt-1026",
+      "added": "2026-10-26",
+      "posted": "2026-10-25",
+      "company": "Site owner — 10 WordPress sites (name not stated)",
+      "country": "Egypt",
+      "city": "",
+      "platform": "Facebook",
+      "type": "Maintenance",
+      "budget": "",
+      "stack": [
+        "WordPress",
+        "Plugins",
+        "Maintenance"
+      ],
+      "need": "Wants a WordPress specialist who knows all the common plugins and can work full-time on 10 websites (ongoing maintenance, updates and development). Contact is by WhatsApp.",
+      "summary": "Egypt: dedicated WordPress specialist for 10 sites — ongoing work, WhatsApp contact.",
+      "source": {
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/share/p/1CXJ1wSZoD/",
+        "date": "2026-10-25",
+        "title": "محتاج متخصص ووردبريس متفرغ لـ 10 مواقع",
+        "poster": "Anonymous member (group: محترفي ووردبريس)",
+        "excerpt": "Looking for a WordPress specialist familiar with all plugins, available full-time to work on 10 sites; contact via WhatsApp."
+      },
+      "contacts": {
+        "name": "",
+        "role": "Site owner",
+        "emails": [],
+        "phones": [
+          "+20 100 059 8858"
+        ],
+        "whatsapp": "+20 100 059 8858",
+        "website": "",
+        "linkedin": "",
+        "facebook": "https://www.facebook.com/groups/332132717188087/",
+        "instagram": "",
+        "other": "WhatsApp number stated in the post"
+      },
+      "extra_sources": [],
+      "email_subject": "WordPress team for your 10 sites — dedicated & ready",
+      "email_subject_ar": "فريق ووردبريس متفرغ لمواقعكم العشرة",
+      "message_en": "Hi,\n\nI saw your post about needing a WordPress specialist for 10 websites. Rather than one person, we're an Egypt-based WordPress team (Elementor, WooCommerce, custom plugins, speed and security), so all 10 sites get covered with no gaps if someone is off, at a competitive monthly rate.\n\nCould you share the site links? I'll send back a quick health check for each one and a monthly maintenance price within 24 hours.\n\nRamez",
+      "message_ar": "أهلاً حضرتك،\n\nشفت البوست إنك محتاج حد متخصص ووردبريس ومتفرغ لـ 10 مواقع. إحنا مش فرد، إحنا فريق ووردبريس في مصر: Elementor وWooCommerce وبرمجة إضافات وتسريع وتأمين. يعني المواقع العشرة هتتغطّى من غير ما حاجة تقف لو حد غاب، وبسعر شهري مناسب.\n\nلو تبعتلي لينكات المواقع، أبعتلك خلال 24 ساعة تقرير سريع عن حالة كل موقع وعرض سعر للصيانة الشهرية.\n\nرامز"
+    },
+    {
+      "id": "ot-yara-magazine-1026",
+      "added": "2026-10-26",
+      "posted": "2026-10-15",
+      "company": "مجلة يارا (Yara Magazine)",
+      "country": "Morocco",
+      "city": "",
+      "platform": "Other",
+      "type": "Part-time",
+      "budget": "",
+      "stack": [
+        "WordPress",
+        "PHP",
+        "HTML/CSS",
+        "JavaScript",
+        "Speed optimization",
+        "Security"
+      ],
+      "need": "Arabic women's/mothers' online magazine needs a part-time remote WordPress developer/technical lead: full site maintenance and updates, speed and mobile optimisation, security and hosting troubleshooting, and custom features requested by the editorial and marketing teams. 3–5 years' experience; flexible hours with performance bonuses.",
+      "summary": "Moroccan Arabic magazine: part-time remote WordPress dev — maintenance, speed, security, new features.",
+      "source": {
+        "platform": "Other (Baaeed remote job board)",
+        "url": "https://baaeed.com/remote-jobs/yaramagazine-%D9%85%D8%B7%D9%88%D8%B1-%D9%88%D9%88%D8%B1%D8%AF%D8%A8%D8%B1%D9%8A%D8%B3-%D9%88%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%AA%D9%82%D9%86%D9%8A",
+        "date": "2026-10-15",
+        "title": "مطور ووردبريس ومسؤول تقني — مجلة يارا",
+        "poster": "مجلة يارا",
+        "excerpt": "Part-time remote WordPress developer to maintain the magazine site, improve speed and mobile UX, secure it, handle hosting issues and build features for editorial/marketing."
+      },
+      "contacts": {
+        "name": "",
+        "role": "",
+        "emails": [],
+        "phones": [],
+        "whatsapp": "",
+        "website": "",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "other": "No public email/phone found; applications via the Baaeed listing only"
+      },
+      "extra_sources": [],
+      "email_subject": "WordPress maintenance & speed for Yara Magazine",
+      "email_subject_ar": "صيانة وتسريع موقع مجلة يارا على ووردبريس",
+      "message_en": "Hello Yara Magazine team,\n\nI saw your part-time WordPress developer role. We're an Egypt-based WordPress team that looks after content-heavy Arabic sites: updates and backups, Core Web Vitals and mobile speed, security hardening, hosting fixes, and custom features for editorial and marketing. Our rates are competitive and we deliver fast.\n\nCould I send a free speed and security snapshot of the magazine with a monthly plan this week?\n\nRamez",
+      "message_ar": "فريق مجلة يارا المحترم،\n\nاطلعت على إعلانكم لمطور ووردبريس بدوام جزئي. نحن فريق ووردبريس في مصر، ونعمل على المواقع العربية الغنية بالمحتوى: التحديثات والنسخ الاحتياطي، وتحسين السرعة على الجوال، وتأمين الموقع، وحل مشاكل الاستضافة، وتطوير الميزات التي يطلبها فريق التحرير والتسويق. أسعارنا منافسة ونسلّم بسرعة.\n\nهل يناسبكم أن أرسل لكم هذا الأسبوع تقريراً مجانياً مختصراً عن سرعة الموقع وأمانه مع خطة شهرية؟\n\nرامز"
+    },
+    {
+      "id": "fb-mawada-ali-gulf-stores-1026",
+      "added": "2026-10-26",
+      "posted": "2026-10-24",
+      "company": "موده علي (Gulf-market e-commerce / media buying team)",
+      "country": "Egypt",
+      "city": "",
+      "platform": "Facebook",
+      "type": "Freelance project",
+      "budget": "",
+      "stack": [
+        "WordPress",
+        "WooCommerce",
+        "Salla",
+        "Zid"
+      ],
+      "need": "Looking for a designer/developer for websites and online stores with experience in WordPress, Salla and Zid. A related post shows they serve the Gulf market (they are also hiring a media buyer and a graphic designer), so expect ongoing store builds for GCC clients.",
+      "summary": "Egypt team serving the Gulf: needs WordPress/Salla/Zid site & store builder — likely recurring.",
+      "source": {
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/groups/253583927080658/permalink/1124846819954360/",
+        "date": "2026-10-24",
+        "title": "مطلوب مصمم مواقع ومتاجر الكترونيه (WordPress / Salla / Zid)",
+        "poster": "موده علي",
+        "excerpt": "Needs a website & e-store designer who has worked with WordPress, Salla and Zid; the same poster hires a media buyer for Gulf campaigns."
+      },
+      "contacts": {
+        "name": "موده علي",
+        "role": "Poster",
+        "emails": [],
+        "phones": [],
+        "whatsapp": "",
+        "website": "",
+        "linkedin": "",
+        "facebook": "https://www.facebook.com/groups/253583927080658/user/100014113592312/",
+        "instagram": "",
+        "other": "No email/phone in post; contact via Facebook"
+      },
+      "extra_sources": [],
+      "email_subject": "WordPress / Salla / Zid stores for your Gulf clients",
+      "email_subject_ar": "متاجر ووردبريس وسلة وزد لعملائكم في الخليج",
+      "message_en": "Hi Mawada,\n\nI saw you need someone for websites and stores on WordPress, Salla and Zid. We're an Egypt-based team that builds WooCommerce stores and sets up Salla and Zid for Gulf brands: Arabic RTL, payment gateways, and pixels and tracking ready for your media buyer. We can work white-label at competitive rates.\n\nCould we have a quick 10-minute call? I'll share relevant samples and quote your first project within 24 hours.\n\nRamez",
+      "message_ar": "أهلاً أستاذة مودة،\n\nشفت إنك محتاجة حد للمواقع والمتاجر على WordPress وسلة وزد. إحنا فريق في مصر، بنبني متاجر WooCommerce ونجهّز متاجر سلة وزد لبراندات خليجية: عربي RTL، وبوابات دفع، والبيكسل والتراكينج جاهزين للميديا باير. وممكن نشتغل white-label تحت اسمكم بأسعار منافسة.\n\nينفع مكالمة 10 دقايق؟ أبعتلك نماذج قريبة وعرض سعر لأول مشروع خلال 24 ساعة.\n\nرامز"
     }
   ]
 }
