@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "leads": [
     {
       "id": "li-peaksy-1022",
@@ -235,6 +235,251 @@
       "email_subject_ar": "متاجر ووردبريس وسلة وزد لعملائكم في الخليج",
       "message_en": "Hi Mawada,\n\nI saw you need someone for websites and stores on WordPress, Salla and Zid. We're an Egypt-based team that builds WooCommerce stores and sets up Salla and Zid for Gulf brands: Arabic RTL, payment gateways, and pixels and tracking ready for your media buyer. We can work white-label at competitive rates.\n\nCould we have a quick 10-minute call? I'll share relevant samples and quote your first project within 24 hours.\n\nRamez",
       "message_ar": "أهلاً أستاذة مودة،\n\nشفت إنك محتاجة حد للمواقع والمتاجر على WordPress وسلة وزد. إحنا فريق في مصر، بنبني متاجر WooCommerce ونجهّز متاجر سلة وزد لبراندات خليجية: عربي RTL، وبوابات دفع، والبيكسل والتراكينج جاهزين للميديا باير. وممكن نشتغل white-label تحت اسمكم بأسعار منافسة.\n\nينفع مكالمة 10 دقايق؟ أبعتلك نماذج قريبة وعرض سعر لأول مشروع خلال 24 ساعة.\n\nرامز"
+    },
+    {
+      "id": "fb-unitech-hosting-1027",
+      "added": "2026-10-27",
+      "posted": "2026-10-26",
+      "company": "UniTech Hosting Solutions",
+      "country": "Egypt",
+      "city": "",
+      "platform": "Facebook",
+      "type": "Outsourcing / white-label",
+      "budget": "",
+      "stack": [
+        "WordPress",
+        "Elementor"
+      ],
+      "need": "Egyptian hosting & web-design company needs a remote WordPress developer who works with Elementor and has a portfolio. They sell website design to their hosting clients, so this is recurring white-label site work.",
+      "summary": "Egypt hosting/web company needs a remote Elementor WordPress dev — recurring white-label work.",
+      "source": {
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/groups/332132717188087/permalink/2818999508501383/",
+        "date": "2026-10-26",
+        "title": "مطلوب WordPress developer بيشتغل بال Elementor — العمل ريموتلي",
+        "poster": "UniTech Hosting Solutions",
+        "excerpt": "Wants a WordPress developer working with Elementor, with previous work; remote; contact via page messages or WhatsApp."
+      },
+      "contacts": {
+        "name": "UniTech Hosting Solutions",
+        "role": "Company page",
+        "emails": [],
+        "phones": [
+          "+20 111 460 0140"
+        ],
+        "whatsapp": "+20 111 460 0140",
+        "website": "",
+        "linkedin": "",
+        "facebook": "https://www.facebook.com/UniTech.Hosting",
+        "instagram": "",
+        "other": "WhatsApp number from the post; posted in group محترفي ووردبريس"
+      },
+      "extra_sources": [],
+      "email_subject": "Remote Elementor/WordPress team for UniTech clients",
+      "email_subject_ar": "فريق ووردبريس وElementor ريموت لعملاء يونيتك",
+      "message_en": "Hi UniTech team,\n\nI saw your post looking for a remote WordPress developer who works with Elementor. I lead an Egypt-based WordPress team (Elementor Pro, WooCommerce, custom themes), so instead of one freelancer you get a team that can take your clients' sites end to end, white-label, at competitive rates and fast delivery.\n\nI can send relevant Elementor samples today, and we could start with one of your current projects as a trial. Would a quick 10-minute call work?\n\nRamez",
+      "message_ar": "أهلاً فريق يونيتك،\n\nشفت بوستكم إنكم محتاجين WordPress developer ريموت بيشتغل Elementor. أنا رامز، بدير فريق ووردبريس في مصر (Elementor Pro وWooCommerce وثيمات مخصصة)، فبدل فريلانسر واحد هيبقى معاكم فريق كامل يستلم مواقع عملائكم من الأول للآخر تحت اسمكم، بأسعار منافسة وتسليم سريع.\n\nأقدر أبعتلكم نماذج Elementor النهارده، ونبدأ بمشروع من الشغل الحالي كتجربة. ينفع مكالمة 10 دقايق؟\n\nرامز"
+    },
+    {
+      "id": "ot-gtech-uae-1027",
+      "added": "2026-10-27",
+      "posted": "2026-10-25",
+      "company": "GTECH Information Technology LLC",
+      "country": "UAE",
+      "city": "Dubai",
+      "platform": "Other",
+      "type": "Full-time remote",
+      "budget": "",
+      "stack": [
+        "WordPress",
+        "Elementor",
+        "WooCommerce",
+        "ACF",
+        "PHP",
+        "WPML",
+        "Arabic RTL"
+      ],
+      "need": "Dubai digital agency (government portals, large websites) hiring a remote WordPress Specialist with native Arabic: RTL/bilingual builds, custom themes/plugins, ACF/CPTs, WooCommerce, Elementor/Gutenberg, Core Web Vitals. Role is restricted to the Middle East — a good opening to pitch white-label capacity.",
+      "summary": "UAE agency needs a remote Arabic/RTL WordPress specialist — pitch white-label team.",
+      "source": {
+        "platform": "Remotive / Workable",
+        "url": "https://remotive.com/remote/jobs/software-development/wordpress-specialist-5338447",
+        "date": "2026-10-25",
+        "title": "WordPress Specialist (Arabic) — GTECH Information Technology LLC",
+        "poster": "GTECH Information Technology LLC",
+        "excerpt": "Remote, Middle East only; 3–5 yrs WordPress, native Arabic for RTL/bilingual sites, ACF, WooCommerce, Elementor, performance."
+      },
+      "contacts": {
+        "name": "GTECH Information Technology",
+        "role": "Hiring team",
+        "emails": [],
+        "phones": [],
+        "whatsapp": "",
+        "website": "https://www.gtechme.com",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "other": "Apply/contact via Workable: https://apply.workable.com/gtech/ — no public email/phone found"
+      },
+      "extra_sources": [
+        {
+          "title": "Workable listing (Egypt remote)",
+          "url": "https://apply.workable.com/gtech/jobs/view/BF08E89A6E",
+          "date": "2026-07-24"
+        },
+        {
+          "title": "Workable listing",
+          "url": "https://jobs.workable.com/jobs/81879fd3-143e-4b77-be06-619230814d62",
+          "date": ""
+        }
+      ],
+      "email_subject": "Arabic/RTL WordPress capacity for GTECH projects",
+      "email_subject_ar": "دعم ووردبريس عربي RTL لمشاريع جي تك",
+      "message_en": "Hello GTECH team,\n\nI saw you're hiring a remote WordPress Specialist with native Arabic for RTL and bilingual builds. I lead an Egypt-based team of Arabic-speaking WordPress developers (custom themes, ACF, WooCommerce, WPML, Core Web Vitals) who already deliver RTL sites for GCC clients.\n\nIf useful, we can cover this as dedicated white-label capacity on a monthly basis at competitive rates, or start with one project. I can share RTL samples and a quote within 24 hours.\n\nRamez",
+      "message_ar": "السلام عليكم فريق جي تك،\n\nاطلعت على إعلانكم لوظيفة WordPress Specialist عن بُعد بلغة عربية أم لبناء مواقع RTL وثنائية اللغة. أدير فريق مطوري ووردبريس عرب في مصر (ثيمات مخصصة، ACF، WooCommerce، WPML، وتحسين Core Web Vitals) ونسلّم مواقع RTL لعملاء في الخليج.\n\nيسعدنا نكون سعة تطوير مخصصة لكم تحت اسمكم (white-label) باشتراك شهري وبأسعار منافسة، أو نبدأ بمشروع واحد. أرسل لكم نماذج RTL وعرض سعر خلال 24 ساعة.\n\nرامز"
+    },
+    {
+      "id": "fb-cairo-moving-company-site-1027",
+      "added": "2026-10-27",
+      "posted": "2026-10-21",
+      "company": "Furniture moving company in Cairo (anonymous poster)",
+      "country": "Egypt",
+      "city": "Cairo",
+      "platform": "Facebook",
+      "type": "Freelance project",
+      "budget": "",
+      "stack": [
+        "WordPress",
+        "PHP",
+        "Technical SEO"
+      ],
+      "need": "A Cairo furniture-moving company wants a professional WordPress website with custom programming, built to technical SEO and UX standards, and is asking for the cost.",
+      "summary": "Cairo moving company asks price for a custom WordPress site with strong technical SEO/UX.",
+      "source": {
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/groups/253583927080658/permalink/1121496433622732/",
+        "date": "2026-10-21",
+        "title": "عايز تصميم موقع ووردبريس مع برمجة خاصة لشركة نقل أثاث بالقاهرة — كم يكلف؟",
+        "poster": "ExhilaratingKiwi521 (anonymous member)",
+        "excerpt": "Wants a professional WordPress site with custom programming for a Cairo moving company, respecting technical SEO and UX; asks for pricing."
+      },
+      "contacts": {
+        "name": "Anonymous group member",
+        "role": "Business owner",
+        "emails": [],
+        "phones": [],
+        "whatsapp": "",
+        "website": "",
+        "linkedin": "",
+        "facebook": "https://www.facebook.com/groups/253583927080658/permalink/1121496433622732/",
+        "instagram": "",
+        "other": "Anonymous post in group مليون مبرمج مصري — no email/phone; reply via the post"
+      },
+      "extra_sources": [],
+      "email_subject": "WordPress website for your Cairo moving company",
+      "email_subject_ar": "موقع ووردبريس لشركة نقل الأثاث",
+      "message_en": "Hi,\n\nI saw you're looking for a professional WordPress site with custom features for a furniture-moving company in Cairo. We're an Egypt-based WordPress team and build service sites that rank: fast Core Web Vitals, local SEO for Cairo areas, schema, and a quote-request/booking form that sends leads straight to WhatsApp.\n\nI can send you a clear price range and two similar samples within 24 hours. A quick 10-minute call?\n\nRamez",
+      "message_ar": "أهلاً بحضرتك،\n\nشفت إنك عايز موقع ووردبريس احترافي ببرمجة خاصة لشركة نقل أثاث في القاهرة. إحنا فريق ووردبريس في مصر، وبنعمل مواقع خدمات بتتصدر جوجل: سرعة عالية، SEO محلي لمناطق القاهرة، Schema، وفورم طلب عرض سعر/حجز بيوصل الطلبات على الواتساب على طول.\n\nأقدر أبعتلك رينج سعر واضح ونموذجين شبه شغلك خلال 24 ساعة. ينفع مكالمة 10 دقايق؟\n\nرامز"
+    },
+    {
+      "id": "li-hermes-cairo-1027",
+      "added": "2026-10-27",
+      "posted": "2026-10-25",
+      "company": "Hermes",
+      "country": "Egypt",
+      "city": "Cairo (Heliopolis)",
+      "platform": "LinkedIn",
+      "type": "Outsourcing / white-label",
+      "budget": "",
+      "stack": [
+        "WordPress",
+        "PHP",
+        "Laravel",
+        "MySQL",
+        "REST API",
+        "React"
+      ],
+      "need": "Hiring a Senior Full Stack Developer (3–5+ yrs) in Sheraton, Heliopolis (on-site): PHP & Laravel, WordPress development, security & performance optimization, Linux hosting (cPanel/Plesk), Meta Pixel/social integrations. Pitch outsourced WordPress + PHP capacity while they hire.",
+      "summary": "Cairo company needs senior PHP/Laravel + WordPress dev — pitch outsourcing.",
+      "source": {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/posts/were-hiring-senior-full-stack-developer-share-7519825436349108224-amGj/",
+        "date": "2026-10-25",
+        "title": "We're Hiring | Senior Full Stack Developer — Heliopolis, Cairo",
+        "poster": "Hermes",
+        "excerpt": "Senior full-stack (PHP/Laravel, WordPress, MySQL, REST, security/performance, cPanel/Plesk); on-site in Heliopolis; CVs by email."
+      },
+      "contacts": {
+        "name": "Hermes",
+        "role": "Talent management",
+        "emails": [
+          "talentmanagement55@gmail.com"
+        ],
+        "phones": [],
+        "whatsapp": "",
+        "website": "",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "other": "Same job also shared by recruiters (CodeTalent Hub and others) 2026-10-22/23"
+      },
+      "extra_sources": [],
+      "email_subject": "WordPress & Laravel support while you hire — Heliopolis",
+      "email_subject_ar": "دعم ووردبريس ولارافيل لحد ما تعيّنوا",
+      "message_en": "Hello,\n\nI saw Hermes is hiring a senior full-stack developer for PHP/Laravel and WordPress work. While you search, my Egypt-based team can take the WordPress and PHP side now: development, security hardening, speed optimization and hosting (cPanel/Plesk), either per project or as a monthly retainer at competitive rates.\n\nWe're in Cairo too, so meeting at your office is easy. Could we set up a short call this week? I can send a proposal within 24 hours.\n\nRamez",
+      "message_ar": "أهلاً بحضرتك،\n\nشفت إن Hermes بتدور على Senior Full Stack Developer لشغل PHP/Laravel وووردبريس. لحد ما تلاقوا الشخص المناسب، فريقي في مصر يقدر يستلم جزء الووردبريس والـPHP من دلوقتي: تطوير، تأمين، تحسين سرعة، وإدارة الاستضافة (cPanel/Plesk)، بالمشروع أو باشتراك شهري وبأسعار منافسة.\n\nإحنا في القاهرة كمان، فسهل نيجي نقابلكم في المكتب. ينفع مكالمة قصيرة الأسبوع ده؟ أبعتلكم عرض خلال 24 ساعة.\n\nرامز"
+    },
+    {
+      "id": "li-deecke-holding-1027",
+      "added": "2026-10-27",
+      "posted": "2026-10-25",
+      "company": "Deecke Holding LLC (Deecke Creative Agency)",
+      "country": "UAE",
+      "city": "Dubai",
+      "platform": "LinkedIn",
+      "type": "Contract",
+      "budget": "AED 4,000–6,000 / month",
+      "stack": [
+        "WordPress",
+        "Elementor",
+        "React",
+        "Next.js",
+        "GTM",
+        "Meta Pixel"
+      ],
+      "need": "Dubai holding (real estate, finance, luxury stays) needs a web developer for its in-house agency: build/maintain WordPress + Elementor websites and landing pages for its brands, Figma-to-code, tracking (GA, GTM, Meta Pixel), speed/SEO, plus work on an in-house CRM. Recruiter post says fully remote, 3-month extendable contract.",
+      "summary": "Dubai holding: remote 3-month contract for WordPress/Elementor + Next.js landing pages.",
+      "source": {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/posts/connectwithhammad_webdeveloper-juniordeveloper-webdevelopment-share-7519736909506744320-mYoE/",
+        "date": "2026-10-25",
+        "title": "Junior Web Developer — 3-month contract (extendable), Dubai, fully remote",
+        "poster": "Hammad Hussain (UAE/GCC recruiter)",
+        "excerpt": "Remote 3-month extendable contract, AED 4–6k/month: websites & landing pages, WordPress/Elementor, React/Next.js, tracking setups."
+      },
+      "contacts": {
+        "name": "Hammad Hussain",
+        "role": "Recruiter (UAE & GCC)",
+        "emails": [],
+        "phones": [],
+        "whatsapp": "",
+        "website": "",
+        "linkedin": "https://www.linkedin.com/in/connectwithhammad/",
+        "facebook": "",
+        "instagram": "",
+        "other": "Apply link goes to Indeed (Deecke Holding); the Indeed copy shows Dubai/visa and is marked expired — confirm the remote setup"
+      },
+      "extra_sources": [
+        {
+          "title": "Indeed listing — Deecke Holding",
+          "url": "https://ae.indeed.com/viewjob?jk=b9ce58b80e1c1169",
+          "date": ""
+        }
+      ],
+      "email_subject": "Remote WordPress & landing-page support for Deecke brands",
+      "email_subject_ar": "دعم ووردبريس وصفحات هبوط عن بُعد لعلامات ديكه",
+      "message_en": "Hi Hammad,\n\nI saw the remote contract role for Deecke Holding's web team (WordPress/Elementor sites, landing pages, tracking and Next.js). I lead an Egypt-based WordPress team that does exactly this for GCC brands, and we can cover it as a monthly contract within the stated budget, with more than one developer behind it.\n\nCould you connect me with the hiring manager, or let me know if a team contract works? I can share landing-page samples within 24 hours.\n\nRamez",
+      "message_ar": "أهلاً أستاذ حماد،\n\nشفت وظيفة الـ contract عن بُعد لفريق الويب في Deecke Holding (مواقع WordPress/Elementor، صفحات هبوط، تراكينج، وNext.js). أنا بدير فريق ووردبريس في مصر بيشتغل في نفس النوع ده لبراندات خليجية، ونقدر نغطيه بعقد شهري في حدود الميزانية المعلنة، مع أكتر من مطور ورا الشغل.\n\nممكن توصّلني بمدير التوظيف، أو تقولّي لو عقد مع فريق مناسب لهم؟ أبعتلك نماذج صفحات هبوط خلال 24 ساعة.\n\nرامز"
     }
   ]
 }
