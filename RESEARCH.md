@@ -40,6 +40,9 @@ Priority: 1) Egypt  2) Saudi Arabia & UAE  3) rest of GCC  4) other Arab countri
 - Skip: unpaid/equity-only, "internship", students, scams, pure design-only roles, full-time on-site roles outside Egypt
   that need relocation, and posts by other agencies selling services.
 - Exactly 5 new leads per run (more only if all are strong). Prefer leads with an email or phone.
+- MUST be contactable (Ramez's rule, 2026-10-28): every lead needs at least one direct way to reach the poster —
+  a public email, phone/WhatsApp, a named person's profile (LinkedIn/Facebook) or a company website/apply link.
+  Skip anonymous posts ("Anonymous participant", hidden poster) that have no phone/email in the text.
 
 ## Lead fields
 - id: platform prefix + slug (`li-`, `fb-`, `ig-`, `gj-` google jobs, `wz-` wuzzuf, `bt-` bayt, `ot-` other) + company slug + MMDD
