@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "leads": [
     {
       "id": "li-peaksy-1022",
@@ -480,6 +480,238 @@
       "email_subject_ar": "دعم ووردبريس وصفحات هبوط عن بُعد لعلامات ديكه",
       "message_en": "Hi Hammad,\n\nI saw the remote contract role for Deecke Holding's web team (WordPress/Elementor sites, landing pages, tracking and Next.js). I lead an Egypt-based WordPress team that does exactly this for GCC brands, and we can cover it as a monthly contract within the stated budget, with more than one developer behind it.\n\nCould you connect me with the hiring manager, or let me know if a team contract works? I can share landing-page samples within 24 hours.\n\nRamez",
       "message_ar": "أهلاً أستاذ حماد،\n\nشفت وظيفة الـ contract عن بُعد لفريق الويب في Deecke Holding (مواقع WordPress/Elementor، صفحات هبوط، تراكينج، وNext.js). أنا بدير فريق ووردبريس في مصر بيشتغل في نفس النوع ده لبراندات خليجية، ونقدر نغطيه بعقد شهري في حدود الميزانية المعلنة، مع أكتر من مطور ورا الشغل.\n\nممكن توصّلني بمدير التوظيف، أو تقولّي لو عقد مع فريق مناسب لهم؟ أبعتلك نماذج صفحات هبوط خلال 24 ساعة.\n\nرامز"
+    },
+    {
+      "id": "li-itp-media-group-1028",
+      "added": "2026-10-28",
+      "posted": "2026-10-24",
+      "company": "ITP Media Group",
+      "country": "UAE",
+      "city": "Dubai",
+      "platform": "LinkedIn",
+      "type": "Freelance project",
+      "budget": "",
+      "stack": [
+        "WordPress",
+        "CSS",
+        "Responsive design"
+      ],
+      "need": "Dubai media group (Arabian Business, Time Out ME, Esquire ME, etc.) needs a freelance WordPress developer for a 1-month contract to refresh/re-skin an existing website: new fonts, typography and styling, content updates, keep structure and functionality, test responsiveness across devices. Listing says on-site Dubai — confirm a remote/team delivery.",
+      "summary": "ITP Media Dubai: 1-month freelance WordPress re-skin of an existing site.",
+      "source": {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/jobs/view/4481935851/",
+        "date": "2026-10-24",
+        "title": "Freelance WordPress Developer (1-Month Contract)",
+        "poster": "ITP Media Group",
+        "excerpt": "1-month freelance contract to re-skin an existing WordPress site (fonts, styling, content) while keeping layout and functionality."
+      },
+      "contacts": {
+        "name": "ITP Media Group (hiring team)",
+        "role": "Talent / HR",
+        "emails": [],
+        "phones": [],
+        "whatsapp": "",
+        "website": "https://www.itp.com",
+        "linkedin": "https://www.linkedin.com/company/itp-publishing-group/",
+        "facebook": "",
+        "instagram": "",
+        "other": "Apply via the LinkedIn listing (responses managed off LinkedIn). Also spotted via a KerJob aggregator post on LinkedIn, 2026-10-27."
+      },
+      "extra_sources": [
+        {
+          "title": "KerJob LinkedIn post (aggregator)",
+          "url": "https://kerjob.in/job/freelance-wordpress-developer-1-month-contract-united-arab-emirates-dubai/",
+          "date": "2026-10-27"
+        }
+      ],
+      "email_subject": "WordPress re-skin for ITP — delivered in under a month",
+      "email_subject_ar": "تحديث تصميم موقع ووردبريس لـ ITP خلال أقل من شهر",
+      "message_en": "Hello ITP team,\n\nI saw the 1-month freelance WordPress role to refresh and re-skin an existing site (typography, styling and content, keeping the structure intact). I lead an Egypt-based WordPress team that does exactly this kind of re-skin for GCC brands, at competitive rates and with fast turnaround, so the work would not depend on a single freelancer.\n\nIf you share the site and the new style direction, I can send a fixed quote and timeline within 24 hours, or we can do a quick call this week.\n\nRamez",
+      "message_ar": "أهلاً فريق ITP،\n\nشفت إعلان مطور ووردبريس فريلانس لمدة شهر لتحديث شكل موقع حالي (الخطوط والتنسيق والمحتوى مع الحفاظ على الهيكل). أنا بقود فريق ووردبريس في مصر بنشتغل على نفس النوع ده من مشاريع إعادة التصميم لعلامات خليجية، بأسعار تنافسية وتسليم سريع، فالشغل مش هيعتمد على شخص واحد.\n\nلو تبعتوا رابط الموقع واتجاه التصميم الجديد، أبعتلكم عرض سعر ثابت وجدول زمني خلال 24 ساعة، أو نعمل مكالمة سريعة الأسبوع ده.\n\nرامز"
+    },
+    {
+      "id": "li-exista-1028",
+      "added": "2026-10-28",
+      "posted": "2026-10-27",
+      "company": "Exista LLC (Exista Group)",
+      "country": "Egypt",
+      "city": "Mansoura",
+      "platform": "LinkedIn",
+      "type": "Outsourcing / white-label",
+      "budget": "",
+      "stack": [
+        "WordPress",
+        "Salla",
+        "WooCommerce",
+        "HTML/CSS/JS"
+      ],
+      "need": "Mansoura-based venture builder working on the Saudi market is hiring a Junior WordPress Developer: build and manage WordPress sites, theme/plugin customisation, and e-commerce work on Salla and similar platforms for Saudi clients. Good fit to offer a part-time/outsourced team instead of a junior hire.",
+      "summary": "Exista (Mansoura, Saudi-market clients): WordPress + Salla e-commerce dev needed.",
+      "source": {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/posts/hiring-wordpressdeveloper-saudimarket-share-7520771025823883265-oN9A/",
+        "date": "2026-10-27",
+        "title": "WE'RE HIRING | Junior WordPress Developer",
+        "poster": "Exista LLC",
+        "excerpt": "Junior WordPress developer with Saudi-market experience; WordPress sites, themes/plugins, Salla e-commerce."
+      },
+      "contacts": {
+        "name": "Exista LLC",
+        "role": "Company page",
+        "emails": [
+          "info@exista-group.com"
+        ],
+        "phones": [],
+        "whatsapp": "",
+        "website": "https://exista-group.com/",
+        "linkedin": "https://www.linkedin.com/company/existallc/",
+        "facebook": "",
+        "instagram": "",
+        "other": "Apply form: https://hr.exista-group.com/apply"
+      },
+      "extra_sources": [],
+      "email_subject": "WordPress & Salla support for your Saudi-market projects",
+      "email_subject_ar": "دعم ووردبريس وسلة لمشاريعكم في السوق السعودي",
+      "message_en": "Hi Exista team,\n\nI saw you're hiring a junior WordPress developer for Saudi-market projects (WordPress sites plus Salla e-commerce). I lead a WordPress team here in Egypt, and instead of one junior hire we can cover this as a part-time or outsourced team: WordPress builds, theme/plugin customisation and store setups, at competitive rates with fast delivery.\n\nWould a quick 15-minute call this week work? I can share Saudi-market samples within 24 hours.\n\nRamez",
+      "message_ar": "أهلاً فريق Exista،\n\nشفت إنكم بتدوروا على مطور ووردبريس جونيور لمشاريع السوق السعودي (مواقع ووردبريس ومتاجر على سلة). أنا بقود فريق ووردبريس في مصر، وبدل تعيين جونيور واحد نقدر نغطي الشغل ده كفريق بارت تايم أو outsourcing: مواقع ووردبريس، تخصيص قوالب وإضافات، وتجهيز متاجر، بأسعار تنافسية وتسليم سريع.\n\nينفع نعمل مكالمة سريعة ربع ساعة الأسبوع ده؟ وأبعتلكم نماذج لشغل للسوق السعودي خلال 24 ساعة.\n\nرامز"
+    },
+    {
+      "id": "fb-skincare-brand-store-1028",
+      "added": "2026-10-28",
+      "posted": "2026-10-28",
+      "company": "Skincare & haircare brand (anonymous poster)",
+      "country": "Egypt",
+      "city": "",
+      "platform": "Facebook",
+      "type": "Freelance project",
+      "budget": "",
+      "stack": [
+        "WooCommerce",
+        "WordPress",
+        "Payment gateway",
+        "WhatsApp",
+        "Shipping integration"
+      ],
+      "need": "New skin/hair/body-care brand wants a full e-commerce store: product catalogue, cart, accounts and order tracking, online payment or COD, admin dashboard for products/orders/sales, WhatsApp + shipping + payment integrations, and per-order cost/profit tracking (supplier dropship model). Asks for total cost, hosting/domain/maintenance, timeline, custom vs ready platform, and samples.",
+      "summary": "New skincare brand: full e-commerce store with COD, shipping & profit tracking.",
+      "source": {
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/groups/253583927080658/permalink/1127943116311397/",
+        "date": "2026-10-28",
+        "title": "محتاج حد متخصص في تصميم وبرمجة المتاجر الإلكترونية",
+        "poster": "Anonymous participant (group: مليون مبرمج مصري)",
+        "excerpt": "Store for a skincare brand: products, cart, COD/online pay, dashboard, WhatsApp/shipping integration, cost & profit per order."
+      },
+      "contacts": {
+        "name": "",
+        "role": "",
+        "emails": [],
+        "phones": [],
+        "whatsapp": "",
+        "website": "",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "other": "Anonymous group post — asks for details and price in private; reach out via a comment/DM on the post"
+      },
+      "extra_sources": [],
+      "email_subject": "Your skincare e-commerce store — quote & timeline",
+      "email_subject_ar": "متجر براند العناية بالبشرة — السعر والمدة",
+      "message_en": "Hi,\n\nI saw your post about the e-commerce store for your skincare/haircare brand (catalogue, COD and online payment, shipping and WhatsApp integration, and per-order profit tracking with the supplier model). I lead an Egypt-based WordPress/WooCommerce team; we build stores like this at competitive prices and fast delivery, and I'd recommend WooCommerce so you own the store with no monthly platform fees.\n\nI can send a full quote (site, domain, hosting, maintenance) with timeline and similar store samples within 24 hours.\n\nRamez",
+      "message_ar": "أهلاً بحضرتك،\n\nشفت بوستك عن متجر البراند بتاع منتجات العناية بالبشرة والشعر (عرض المنتجات، دفع أونلاين وعند الاستلام، ربط شركات الشحن وواتساب، وحساب تكلفة وربح كل أوردر مع نظام المورد). أنا بقود فريق ووردبريس وWooCommerce في مصر، وبنعمل متاجر بالشكل ده بأسعار تنافسية وتسليم سريع، وأنصح بـ WooCommerce عشان المتجر يبقى ملكك من غير اشتراك شهري لمنصة.\n\nأقدر أبعتلك عرض سعر كامل (الموقع والدومين والاستضافة والصيانة) مع المدة ونماذج لمتاجر شبهه خلال 24 ساعة.\n\nرامز"
+    },
+    {
+      "id": "fb-ahmed-ramadan-shop-site-1028",
+      "added": "2026-10-28",
+      "posted": "2026-10-25",
+      "company": "Ahmed Ramadan — new shop (name not stated)",
+      "country": "Egypt",
+      "city": "",
+      "platform": "Facebook",
+      "type": "Freelance project",
+      "budget": "",
+      "stack": [
+        "WordPress",
+        "Domain & hosting",
+        "Security"
+      ],
+      "need": "Opening a new shop and wants a complete website, plus help buying the domain. Asks for price, domain cost range, security measures and extra features — details by WhatsApp.",
+      "summary": "New shop owner in Egypt wants a full website + domain; contact by WhatsApp.",
+      "source": {
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/groups/253583927080658/permalink/1125272029911839/",
+        "date": "2026-10-25",
+        "title": "عايز اعمل Website كامل لمحل لسه بفتحه",
+        "poster": "Ahmed Ramadan (group: مليون مبرمج مصري)",
+        "excerpt": "Wants a full website for a new shop plus domain; asks for price, security and features over WhatsApp."
+      },
+      "contacts": {
+        "name": "Ahmed Ramadan",
+        "role": "Shop owner",
+        "emails": [],
+        "phones": [
+          "+20 127 504 2072"
+        ],
+        "whatsapp": "+20 127 504 2072",
+        "website": "",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "other": "Number posted publicly in the post, asked for WhatsApp messages"
+      },
+      "extra_sources": [],
+      "email_subject": "Website + domain for your new shop",
+      "email_subject_ar": "موقع ودومين لمحلك الجديد",
+      "message_en": "Hi Ahmed,\n\nI saw your post about a complete website for the shop you're opening, plus the domain. I lead a WordPress team in Egypt; we can handle everything — domain, hosting, a fast mobile-friendly site, security setup and a simple dashboard — at a competitive price with quick delivery.\n\nTell me what the shop sells and I'll send you a clear package with prices and timeline today.\n\nRamez",
+      "message_ar": "أهلاً أستاذ أحمد،\n\nشفت بوستك عن موقع كامل للمحل اللي بتفتحه ومعاه الدومين. أنا بقود فريق ووردبريس في مصر، ونقدر نعملك كل حاجة: الدومين والاستضافة، موقع سريع ومناسب للموبايل، الحماية، ولوحة تحكم سهلة — بسعر تنافسي وتسليم سريع.\n\nقولّي المحل بيبيع إيه وأبعتلك النهارده باقة واضحة بالأسعار والمدة.\n\nرامز"
+    },
+    {
+      "id": "fb-solar-smart-home-site-1028",
+      "added": "2026-10-28",
+      "posted": "2026-10-14",
+      "company": "Solar Energy & Smart Home company (anonymous poster)",
+      "country": "Saudi Arabia",
+      "city": "",
+      "platform": "Facebook",
+      "type": "Freelance project",
+      "budget": "",
+      "stack": [
+        "WordPress",
+        "Elementor",
+        "Bilingual AR/EN",
+        "SEO",
+        "WhatsApp integration"
+      ],
+      "need": "Company in solar energy & smart-home solutions needs a 6-page bilingual (Arabic/English) responsive WordPress site with Elementor, pixel-accurate UI/UX implementation, basic SEO and speed optimisation, WhatsApp and contact-form integration. Wants portfolio, price and timeline in private. Saudi mobile number in the post. Post is 14 days old — reach out quickly.",
+      "summary": "Solar & smart-home company (KSA number): 6-page bilingual WordPress/Elementor site.",
+      "source": {
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/groups/253583927080658/permalink/1114348104337565/",
+        "date": "2026-10-14",
+        "title": "مطلوب WordPress Developer – Freelance",
+        "poster": "Anonymous participant (group: مليون مبرمج مصري)",
+        "excerpt": "6-page AR/EN WordPress + Elementor site for a solar/smart-home company; SEO, speed, WhatsApp & contact form."
+      },
+      "contacts": {
+        "name": "",
+        "role": "",
+        "emails": [],
+        "phones": [
+          "+966 59 370 8595"
+        ],
+        "whatsapp": "",
+        "website": "",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "other": "Number written in the post (Saudi mobile format 059…); poster asks for portfolio, price and timeline in private"
+      },
+      "extra_sources": [],
+      "email_subject": "Bilingual WordPress site for your solar & smart-home company",
+      "email_subject_ar": "موقع ووردبريس عربي/إنجليزي لشركة الطاقة الشمسية والمنازل الذكية",
+      "message_en": "Hello,\n\nI saw your post about a 6-page Arabic/English WordPress site for your solar energy and smart-home company (Elementor, accurate UI/UX, SEO, speed, WhatsApp and contact form). I lead an Egypt-based WordPress team that builds bilingual business sites for Saudi companies, at competitive rates and fast delivery.\n\nI can send our portfolio, a fixed price and a delivery timeline within 24 hours — or a quick call if easier.\n\nRamez",
+      "message_ar": "السلام عليكم،\n\nاطلعت على طلبكم لموقع ووردبريس من 6 صفحات بالعربي والإنجليزي لشركة الطاقة الشمسية وحلول المنازل الذكية (Elementor، تنفيذ دقيق للتصميم، SEO وسرعة، وربط واتساب ونموذج تواصل). أنا أقود فريق ووردبريس في مصر ننفّذ مواقع شركات ثنائية اللغة لعملاء في السعودية، بأسعار تنافسية وتسليم سريع.\n\nيسعدني أرسل لكم نماذج أعمالنا مع سعر ثابت ومدة التنفيذ خلال 24 ساعة، أو نتواصل بمكالمة قصيرة إذا يناسبكم.\n\nرامز"
     }
   ]
 }
