@@ -45,7 +45,7 @@ jobs:
         run: |
           ftp() { lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e "set ftp:ssl-allow yes; set ssl:verify-certificate no; set ftp:passive-mode on; set net:max-retries 3; set net:timeout 30; $1; quit"; }
           if [ -n "$FIN_DIR_CLEAN" ]; then CANDIDATES="$FIN_DIR_CLEAN"; else
-            CANDIDATES="domains/dashboard-eg.com/public_html/finance public_html/finance finance domains/finance.dashboard-eg.com/public_html/finance"; fi
+            CANDIDATES="/public_html/finance /finance /domains/dashboard-eg.com/public_html/finance /domains/finance.dashboard-eg.com/public_html/finance"; fi
           TARGET=""
           for c in $CANDIDATES; do
             if ftp "cd \"$c\"" >/dev/null 2>&1; then TARGET="$c"; break; fi
@@ -83,6 +83,10 @@ jobs:
           pwd
           cls -1 --classify
           echo "--- one level down:"
-          cls -1 --classify */ domains/*/ domains/*/public_html/
+          cls -1 --classify /
+          echo "--- under each top folder:"
+          cls -1 --classify /*/
+          echo "--- inside public_html (folders only):"
+          cls -1 -d /public_html/*/
           quit
           EOF
