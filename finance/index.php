@@ -23,15 +23,15 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
 <title><?= h(APP_NAME) ?></title>
-<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="icon" href="assets/icon.png" type="image/png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap">
-<link rel="stylesheet" href="assets/app.css?v=1">
+<link rel="stylesheet" href="assets/app.css?v=2">
 </head>
 <body class="login">
   <main class="login-card">
-    <img class="logo" src="assets/logo.svg" alt="" width="44" height="44">
+    <img class="logo" src="assets/logo-blue.png" alt="DashBoard" width="200" height="33">
     <h1>Finance</h1>
     <p class="muted">Income, expenses and cash for Dashboard.</p>
     <?php if ($error): ?><div class="alert"><?= h($error) ?></div><?php endif; ?>

@@ -17,15 +17,15 @@ function ico(string $p): string { return '<svg viewBox="0 0 24 24" width="20" he
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
 <title><?= h(APP_NAME) ?></title>
-<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="icon" href="assets/icon.png" type="image/png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap">
-<link rel="stylesheet" href="assets/app.css?v=1">
+<link rel="stylesheet" href="assets/app.css?v=2">
 </head>
 <body class="app">
 <aside class="side">
-  <div class="brand"><img src="assets/logo.svg" alt="" width="34" height="34"><div><b>Dashboard</b><span>Finance</span></div></div>
+  <div class="brand"><img src="assets/logo-blue.png" alt="DashBoard" width="170" height="28"><span class="brand-tag">Finance</span></div>
   <nav class="nav" aria-label="Main">
     <?php foreach ($nav as $k => $label): ?>
       <a href="#<?= $k ?>" data-view="<?= $k ?>"><?= ico($icons[$k]) ?><span><?= $label ?></span></a>
@@ -44,6 +44,6 @@ function ico(string $p): string { return '<svg viewBox="0 0 24 24" width="20" he
 <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
 <script>window.FIN = <?= $boot ?>;</script>
-<script src="assets/app.js?v=1"></script>
+<script src="assets/app.js?v=2"></script>
 </body>
 </html>
