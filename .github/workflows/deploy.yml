@@ -3,6 +3,7 @@ name: Deploy to Hostinger (FTP)
 on:
   push:
     branches: [main]
+    paths-ignore: ['finance/**', '.github/workflows/deploy-finance.yml']
   workflow_dispatch:
 
 concurrency:
@@ -37,7 +38,7 @@ jobs:
           set net:timeout 30
           mirror -R --verbose --parallel=2 \
             --exclude-glob .git* --exclude ^\.git/ --exclude ^\.github/ \
-            --exclude ^storage/ \
+            --exclude ^storage/ --exclude ^finance/ \
             ./ "$FTP_DIR"
           quit
           EOF

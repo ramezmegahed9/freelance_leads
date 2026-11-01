@@ -1,0 +1,58 @@
+name: Deploy Finance (finance.dashboard-eg.com)
+
+# Uploads ONLY the finance/ folder into the subdomain's own folder on Hostinger.
+# It cd's into that folder first and aborts if it doesn't exist, so it can never write anywhere else.
+# No --delete: nothing on the server is ever removed (runtime data in storage/ is safe).
+
+on:
+  push:
+    branches: [main]
+    paths: ['finance/**', '.github/workflows/deploy-finance.yml']
+  workflow_dispatch:
+
+concurrency:
+  group: ftp-deploy-finance
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check required secret
+        env:
+          FIN_DIR: ${{ secrets.FINANCE_FTP_DIR }}
+        run: |
+          if [ -z "$FIN_DIR" ]; then
+            echo "::error::Add the FINANCE_FTP_DIR secret (path of the finance subdomain folder as seen by the FTP account)."
+            exit 1
+          fi
+
+      - name: Lint PHP
+        run: for f in finance/*.php; do php -l "$f"; done
+
+      - name: Install lftp
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq lftp
+
+      - name: Upload finance/ via FTP
+        env:
+          FTP_HOST: ${{ secrets.FINANCE_FTP_SERVER || secrets.FTP_SERVER || secrets.FTP_HOST }}
+          FTP_USER: ${{ secrets.FINANCE_FTP_USERNAME || secrets.FTP_USERNAME || secrets.FTP_USER }}
+          FTP_PASS: ${{ secrets.FINANCE_FTP_PASSWORD || secrets.FTP_PASSWORD || secrets.FTP_PASS }}
+          FIN_DIR:  ${{ secrets.FINANCE_FTP_DIR }}
+        run: |
+          lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" <<EOF
+          set cmd:fail-exit yes
+          set ftp:ssl-allow yes
+          set ssl:verify-certificate no
+          set ftp:passive-mode on
+          set net:max-retries 5
+          set net:reconnect-interval-base 5
+          set net:timeout 30
+          cd "$FIN_DIR"
+          mirror -R --verbose --parallel=2 \
+            --exclude-glob .DS_Store --exclude ^storage/ \
+            ./finance/ ./
+          quit
+          EOF
