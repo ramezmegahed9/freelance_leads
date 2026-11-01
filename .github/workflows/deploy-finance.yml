@@ -20,21 +20,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Check target folder
+      - name: Read target folder setting
         env:
           FIN_DIR: ${{ secrets.FINANCE_FTP_DIR }}
-          DEDICATED: ${{ secrets.FINANCE_FTP_USERNAME != '' }}
         run: |
-          # With a dedicated FTP account locked to the finance folder, its root IS the finance folder.
-          DIR="$(printf '%s' "$FIN_DIR" | tr -d '[:space:]')"
-          if [ "$DEDICATED" = "true" ] && [ -z "$DIR" -o "$DIR" = "/" -o "$DIR" = "." -o "$DIR" = "./" ]; then
-            echo "FIN_DIR_CLEAN=/" >> "$GITHUB_ENV"; exit 0
-          fi
-          DIR="${DIR%/}"
-          if [ -z "$DIR" ]; then echo "::error::FINANCE_FTP_DIR secret is empty."; exit 1; fi
-          if [ "$(basename "$DIR")" != "finance" ]; then
-            echo "::error::FINANCE_FTP_DIR must point to the finance folder itself (its last part must be 'finance'). Refusing to deploy."
-            exit 1
+          # Optional. If set, its last part MUST be "finance". If empty or "/", the folder is auto-discovered.
+          DIR="$(printf '%s' "$FIN_DIR" | tr -d '[:space:]')"; DIR="${DIR%/}"
+          if [ -n "$DIR" ] && [ "$(basename "$DIR")" != "finance" ]; then
+            echo "::error::FINANCE_FTP_DIR must end in /finance (or be '/' to auto-detect). Refusing to deploy."; exit 1
           fi
           echo "FIN_DIR_CLEAN=$DIR" >> "$GITHUB_ENV"
 
@@ -44,12 +37,22 @@ jobs:
       - name: Install lftp
         run: sudo apt-get update -qq && sudo apt-get install -y -qq lftp
 
-      - name: Upload finance/ via FTP
+      - name: Upload finance/ via FTP (only into a folder named "finance")
         env:
           FTP_HOST: ${{ secrets.FINANCE_FTP_SERVER || secrets.FTP_SERVER || secrets.FTP_HOST }}
           FTP_USER: ${{ secrets.FINANCE_FTP_USERNAME || secrets.FTP_USERNAME || secrets.FTP_USER }}
           FTP_PASS: ${{ secrets.FINANCE_FTP_PASSWORD || secrets.FTP_PASSWORD || secrets.FTP_PASS }}
         run: |
+          ftp() { lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" -e "set ftp:ssl-allow yes; set ssl:verify-certificate no; set ftp:passive-mode on; set net:max-retries 3; set net:timeout 30; $1; quit"; }
+          if [ -n "$FIN_DIR_CLEAN" ]; then CANDIDATES="$FIN_DIR_CLEAN"; else
+            CANDIDATES="domains/dashboard-eg.com/public_html/finance public_html/finance finance domains/finance.dashboard-eg.com/public_html/finance"; fi
+          TARGET=""
+          for c in $CANDIDATES; do
+            if ftp "cd \"$c\"" >/dev/null 2>&1; then TARGET="$c"; break; fi
+          done
+          if [ -z "$TARGET" ]; then echo "::error::Could not find the finance folder. Tried: $CANDIDATES"; exit 1; fi
+          case "$TARGET" in */finance|finance) ;; *) echo "::error::Refusing: $TARGET is not a finance folder"; exit 1;; esac
+          echo "Deploying into: $TARGET"
           lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" <<EOF
           set cmd:fail-exit yes
           set ftp:ssl-allow yes
@@ -58,7 +61,7 @@ jobs:
           set net:max-retries 5
           set net:reconnect-interval-base 5
           set net:timeout 30
-          cd "$FIN_DIR_CLEAN"
+          cd "$TARGET"
           mirror -R --verbose --parallel=2 \
             --exclude-glob .DS_Store --exclude ^storage/ \
             ./finance/ ./
@@ -80,6 +83,6 @@ jobs:
           pwd
           cls -1 --classify
           echo "--- one level down:"
-          cls -1 --classify */
+          cls -1 --classify */ domains/*/ domains/*/public_html/
           quit
           EOF
