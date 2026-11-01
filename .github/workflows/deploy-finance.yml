@@ -20,14 +20,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Check required secret
+      - name: Check target folder (must end in /finance)
         env:
           FIN_DIR: ${{ secrets.FINANCE_FTP_DIR }}
         run: |
-          if [ -z "$FIN_DIR" ]; then
-            echo "::error::Add the FINANCE_FTP_DIR secret (path of the finance subdomain folder as seen by the FTP account)."
+          DIR="$(printf '%s' "$FIN_DIR" | tr -d '[:space:]')"
+          DIR="${DIR%/}"
+          if [ -z "$DIR" ]; then echo "::error::FINANCE_FTP_DIR secret is empty."; exit 1; fi
+          if [ "$(basename "$DIR")" != "finance" ]; then
+            echo "::error::FINANCE_FTP_DIR must point to the finance folder itself (its last part must be 'finance'). Refusing to deploy."
             exit 1
           fi
+          echo "FIN_DIR_CLEAN=$DIR" >> "$GITHUB_ENV"
 
       - name: Lint PHP
         run: for f in finance/*.php; do php -l "$f"; done
@@ -40,7 +44,6 @@ jobs:
           FTP_HOST: ${{ secrets.FINANCE_FTP_SERVER || secrets.FTP_SERVER || secrets.FTP_HOST }}
           FTP_USER: ${{ secrets.FINANCE_FTP_USERNAME || secrets.FTP_USERNAME || secrets.FTP_USER }}
           FTP_PASS: ${{ secrets.FINANCE_FTP_PASSWORD || secrets.FTP_PASSWORD || secrets.FTP_PASS }}
-          FIN_DIR:  ${{ secrets.FINANCE_FTP_DIR }}
         run: |
           lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" <<EOF
           set cmd:fail-exit yes
@@ -50,9 +53,28 @@ jobs:
           set net:max-retries 5
           set net:reconnect-interval-base 5
           set net:timeout 30
-          cd "$FIN_DIR"
+          cd "$FIN_DIR_CLEAN"
           mirror -R --verbose --parallel=2 \
             --exclude-glob .DS_Store --exclude ^storage/ \
             ./finance/ ./
+          quit
+          EOF
+
+      - name: Show what the FTP account can see (only if the folder was not found)
+        if: failure()
+        env:
+          FTP_HOST: ${{ secrets.FINANCE_FTP_SERVER || secrets.FTP_SERVER || secrets.FTP_HOST }}
+          FTP_USER: ${{ secrets.FINANCE_FTP_USERNAME || secrets.FTP_USERNAME || secrets.FTP_USER }}
+          FTP_PASS: ${{ secrets.FINANCE_FTP_PASSWORD || secrets.FTP_PASSWORD || secrets.FTP_PASS }}
+        run: |
+          lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" <<EOF || true
+          set ftp:ssl-allow yes
+          set ssl:verify-certificate no
+          set ftp:passive-mode on
+          echo "--- FTP root:"
+          pwd
+          cls -1 --classify
+          echo "--- one level down:"
+          cls -1 --classify */
           quit
           EOF
