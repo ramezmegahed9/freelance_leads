@@ -20,11 +20,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Check target folder (must end in /finance)
+      - name: Check target folder
         env:
           FIN_DIR: ${{ secrets.FINANCE_FTP_DIR }}
+          DEDICATED: ${{ secrets.FINANCE_FTP_USERNAME != '' }}
         run: |
+          # With a dedicated FTP account locked to the finance folder, its root IS the finance folder.
           DIR="$(printf '%s' "$FIN_DIR" | tr -d '[:space:]')"
+          if [ "$DEDICATED" = "true" ] && [ -z "$DIR" -o "$DIR" = "/" -o "$DIR" = "." -o "$DIR" = "./" ]; then
+            echo "FIN_DIR_CLEAN=/" >> "$GITHUB_ENV"; exit 0
+          fi
           DIR="${DIR%/}"
           if [ -z "$DIR" ]; then echo "::error::FINANCE_FTP_DIR secret is empty."; exit 1; fi
           if [ "$(basename "$DIR")" != "finance" ]; then
