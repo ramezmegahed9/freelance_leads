@@ -43,8 +43,8 @@ jobs:
           FTP_USER: ${{ secrets.FINANCE_FTP_USERNAME || secrets.FTP_USERNAME || secrets.FTP_USER }}
           FTP_PASS: ${{ secrets.FINANCE_FTP_PASSWORD || secrets.FTP_PASSWORD || secrets.FTP_PASS }}
         run: |
-          if [ -n "$FIN_DIR_CLEAN" ]; then CANDIDATES="$FIN_DIR_CLEAN"; else
-            CANDIDATES="/public_html/finance /finance /domains/dashboard-eg.com/public_html/finance"; fi
+          # Try the configured path first, then the usual Hostinger locations (all end in /finance).
+          CANDIDATES="$FIN_DIR_CLEAN /public_html/finance /finance /domains/dashboard-eg.com/public_html/finance"
           TARGET=""
           for c in $CANDIDATES; do
             if lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" <<EOF
